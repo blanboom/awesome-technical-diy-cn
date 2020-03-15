@@ -109,7 +109,31 @@ DIY Projects/Tools/Books for Makers
 
 ### 开发板、单片机
 
+目前市面上流行的单片机种类较多，本节只整理比较流行、有代表性的。
 
+* [Arduino](https://www.arduino.cc/): 基于 AVR 的单片机开发板，拥有完善的生态（软件、教程、各种周边模块等），收到了世界各地 DIY 爱好者的喜爱。且有不少厂商推出 Arduino 开发板，部分在价格上有优势、部分增加了新的功能
+  * [Microduino](https://microduinoinc.com/): Arduino 兼容开发板，特色在于体积小巧，且官方提供网络通信、OLED、电源管理、RTC、SD 卡槽等多种模块，与 Microduino 具有相同的体积，能够直接堆叠安装
+  * [DFRduino](https://www.dfrobot.com/product-838.html): DFRobot 出品的 Arduino 开发板
+  * [Bluno](https://www.dfrobot.com/product-1044.html): DFRobot 出品的 Arduino 兼容开发板，在原版 Arduino 的基础上，增加了蓝牙功能
+  * [Seeeduino](https://www.seeedstudio.com/Seeeduino-V4-2-p-2517.html): Seeed Studio 出品的 Arduino 开发板
+* [ESP8266](https://www.espressif.com/en/products/hardware/esp8266ex/overview): 支持 Wi-Fi 的单片机，在物联网项目中受欢迎
+  * [NodeMcu](https://www.nodemcu.com/index\_cn.html): 基于 ESP8266 的开发板
+* [ESP32](https://www.espressif.com/en/products/hardware/esp32/overview): 支持 Wi-Fi 与蓝牙的单片机
+* [Mbed](https://os.mbed.com/platforms/): ARM Mbed 认证的开发板，能够兼容 Mbed 的一系列开发工具
+* [8051 系列](https://en.wikipedia.org/wiki/Intel_MCS-51): Intel 推出的单片机系列，国内不少单片机教程基于 8051，目前较为流行的是各个厂商推出的增强型 8051 单片机
+  * [STC](http://www.stcmcudata.com/): 国内较为著名的增强型 8051 单片机
+  * [C8051F 系列](https://www.silabs.com/mcu/8-bit): 增强型 8051 单片机
+* [STM32](https://www.st.com/zh/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html): ST 公司基于 ARM Cortrx-M 的单片机
+  * [STM32 Discovery 发现工具包](https://www.st.com/zh/evaluation-tools/stm32-discovery-kits.html): STM32 官方开发板
+* [MSP430](http://www.ti.com/microcontrollers/msp430-ultra-low-power-mcus/overview.html): TI 推出的 16 位单片机，特色为低功耗
+  * [MSP430 Launchpad](http://www.ti.com/design-resources/embedded-development/hardware-kits-boards.html): MSP430 等 TI 芯片的官方开发板
+* [TI SimpleLink 系列](http://www.ti.com/wireless-connectivity/simplelink-solutions/overview/overview.html): 支持无线通信的单片机系列，其中不同型号支持不同协议
+  * [CC2530](http://www.ti.com/product/CC2530): 支持 ZigBee 的单片机/SoC，基于 8051
+  * [CC2540](http://www.ti.com/product/CC2540): 支持蓝牙 BLE 的单片机/SoC，基于 8051
+  * [CC3200](http://www.ti.com/product/CC3200): 支持 Wi-Fi 的单片机，基于 32 位 ARM Cortex-M
+* [WRTnode](http://www.wrtnode.cc/): 物联网开发板，部分型号支持运行 OpenWrt
+
+### 单板计算机（SBC）
 
 ### 电子模块
 
