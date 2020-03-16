@@ -1,6 +1,7 @@
 # Awesome Technical DIY
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+
 
 DIY Projects/Tools/Books for Makers
 
@@ -27,7 +28,7 @@ DIY Projects/Tools/Books for Makers
 - 英文
 
   - [Instructables](http://www.instructables.com/)
-  - [Makeprojects](http://makezine.com/projects/)
+  - [Make: projects](http://makezine.com/projects/)
   - [Arduino Blog](http://blog.arduino.cc/)
   - [Arduino Forum](http://forum.arduino.cc/)
   - [Hack a Day](http://hackaday.com/)
@@ -103,7 +104,7 @@ DIY Projects/Tools/Books for Makers
 
 - 万用表
 - 示波器
-- 电烙铁/焊台
+- 电烙铁/焊台/热风枪/吸锡器
 - 3D 打印机
 - 激光切割机/雕刻机
 
@@ -112,13 +113,16 @@ DIY Projects/Tools/Books for Makers
 目前市面上流行的单片机种类较多，本节只整理比较流行、有代表性的。
 
 * [Arduino](https://www.arduino.cc/): 基于 AVR 的单片机开发板，拥有完善的生态（软件、教程、各种周边模块等），收到了世界各地 DIY 爱好者的喜爱。且有不少厂商推出 Arduino 开发板，部分在价格上有优势、部分增加了新的功能
+  * [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)[Lembed/Awesome-arduino](https://github.com/Lembed/Awesome-arduino)
   * [Microduino](https://microduinoinc.com/): Arduino 兼容开发板，特色在于体积小巧，且官方提供网络通信、OLED、电源管理、RTC、SD 卡槽等多种模块，与 Microduino 具有相同的体积，能够直接堆叠安装
   * [DFRduino](https://www.dfrobot.com/product-838.html): DFRobot 出品的 Arduino 开发板
   * [Bluno](https://www.dfrobot.com/product-1044.html): DFRobot 出品的 Arduino 兼容开发板，在原版 Arduino 的基础上，增加了蓝牙功能
   * [Seeeduino](https://www.seeedstudio.com/Seeeduino-V4-2-p-2517.html): Seeed Studio 出品的 Arduino 开发板
 * [ESP8266](https://www.espressif.com/en/products/hardware/esp8266ex/overview): 支持 Wi-Fi 的单片机，在物联网项目中受欢迎
+  * [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)[pando85/awesome-esp8266](https://github.com/pando85/awesome-esp8266)
   * [NodeMcu](https://www.nodemcu.com/index\_cn.html): 基于 ESP8266 的开发板
 * [ESP32](https://www.espressif.com/en/products/hardware/esp32/overview): 支持 Wi-Fi 与蓝牙的单片机
+  * [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)[agucova/awesome-esp](https://github.com/agucova/awesome-esp)
 * [Mbed](https://os.mbed.com/platforms/): ARM Mbed 认证的开发板，能够兼容 Mbed 的一系列开发工具
 * [8051 系列](https://en.wikipedia.org/wiki/Intel_MCS-51): Intel 推出的单片机系列，国内不少单片机教程基于 8051，目前较为流行的是各个厂商推出的增强型 8051 单片机
   * [STC](http://www.stcmcudata.com/): 国内较为著名的增强型 8051 单片机
@@ -135,39 +139,65 @@ DIY Projects/Tools/Books for Makers
 
 ### 单板计算机（SBC）
 
+与单片机开发板相比，单板计算机一般运行 Linux 等通用操作系统，性能也更强大。
+
+* [Teach, Learn, and Make with Raspberry Pi – Raspberry Pi](https://www.raspberrypi.org/): 最著名的单板计算机
+  * [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) [thibmaek/awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi)
+  * [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) [blackout314/awesome-raspberry-pi](https://github.com/blackout314/awesome-raspberry-pi)
+  * [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) [wwj718/awesome-raspberry-pi-zh](https://github.com/wwj718/awesome-raspberry-pi-zh)
+* [ASUS Tinker Board](https://www.asus.com/us/Single-Board-Computer/Tinker-Board/): 来自华硕的单板计算机
+  * [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) [thyrlian/awesome-asus-tinker-board](https://github.com/thyrlian/awesome-asus-tinker-board)
+* [NVIDIA Jetson Nano Developer Kit](https://developer.nvidia.com/embedded/jetson-nano-developer-kit): 来自 NVIDIA 的开发板，带有 GPU，适合用来实现计算机视觉和 AI 项目
+  * [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) [elloza/awesome-jetson-nano](https://github.com/elloza/awesome-jetson-nano)
+  * [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) [msurguy/awesome-jetson-nano](https://github.com/msurguy/awesome-jetson-nano)
+* [LattePanda](https://www.lattepanda.com/): x86 架构开发板，支持运行 Windows 10
+* [CubieBoard](http://cubieboard.org/)
+* [Banana Pi](http://www.banana-pi.org.cn/)
+* [Orange Pi](http://www.orangepi.org/)
+* [ODROID](https://www.hardkernel.com/)
+* [Khadas](https://www.khadas.com/)
+* [UDOO](https://www.udoo.org/)
+
 ### 电子模块
 
 ### 软件：电路设计与仿真、PCB 设计
 
-- Altium Designer
-- KiCad
-- Eagle
-- 立创 EDA / EasyEDA
-- Fritzing
-- Proteus
-- Autodesk Tinkercad Circuits
+- [Altium Designer](https://www.altium.com/altium-designer/): 国内比较流行的 EDA 工具，有着丰富的教程，收费
+  - [Altium CircuitMaker](https://circuitmaker.com/#why_circuitmaker): 来自 Altium，免费的 PCB 设计工具
+- [KiCad](https://www.kicad-pcb.org)
+- [Eagle](https://www.autodesk.com/products/eagle/overview)
+- [立创 EDA](https://lceda.cn) / [EasyEDA](https://easyeda.com)
+- [Fritzing](https://fritzing.org/home/)
+- [Proteus](https://www.labcenter.com)
+- [Autodesk Tinkercad Circuits](https://www.tinkercad.com/circuits)
 
 ### 软件：嵌入式编程
+
+
+
+更多资源：
+
+* [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) [nhivp/Awesome-Embedded](https://github.com/nhivp/Awesome-Embedded)
 
 ### 软件：3D 建模、CAD 类
 
 ## 项目与专题
 
 ### 🏠智能家居/家庭自动化/环境监测
-### 🎵音频与音乐
-### 🎮自制游戏机
+### 🎹音频与音乐
+### 🕹自制游戏机
 ### 📺视频与视觉
-### 信息可视化
-### 分布式
-### 高性能计算
+### 📈信息可视化
+### 🕸分布式
+### 🧮高性能计算
 ### 🌐网络与通信
 ### 🤖️机器人/小车/飞行器
 ### 🐸生物与生态
-### 复古计算
-### 可穿戴设备
-### 时钟与屏幕
-### 互动装置
-### POV（视觉暂留）
+### 📺复古计算
+### ⌚️可穿戴设备
+### 🕰时钟与屏幕
+### ⛓互动装置
+### 📸POV（视觉暂留）
 
 ## 欢迎参与
 
