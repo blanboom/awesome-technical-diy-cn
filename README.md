@@ -173,13 +173,25 @@ DIY Projects/Tools/Books for Makers
 
 ### 软件：嵌入式编程
 
-
+* [Keil 8051 Microcontroller Development Tools](http://www.keil.com/c51/): 国内常用的 8051 开发工具
+* [Keil MDK](https://www2.keil.com/mdk5): ARM Cortex-M 单片机开发工具
+* [IAR Embedded Workbench](https://www.iar.com/iar-embedded-workbench/): 单片机开发工具，在编译优化方面有特色
+* [PlatformIO](https://platformio.org/): 全能的嵌入式开发工具，支持大量单片机和开发板，提供 Visual Studio Code、Atom、CLion 插件
+* [Arduino IDE](https://www.arduino.cc/en/main/software): Arduino 官方 IDE，易于上手，但功能较少
+* [Arduino Pro IDE](https://www.arduino.cc/pro/arduino-pro-ide): Arduino 官方 IDE，基于 Visual Studio Code，比 Arduino IDE 拥有更丰富的功能
+* [Mbed Studio](https://os.mbed.com/studio/): ARM Mbed 提供的免费 IDE
+* [GNU MCU Eclipse](https://gnu-mcu-eclipse.github.io/): Eclipse 插件，支持在 Eclipse 上进行嵌入式开发
+* [Visual Micro](https://www.visualmicro.com/): Visual Studio 插件，支持在 Visual Studio 上进行 Arduino 的开发和调试
+* [VisualGDB](https://visualgdb.com/?features=embedded): Visual Studio 插件，支持在 Visual Studio 上进行 Arduino、ESP8266/ESP32、Mbed 以及多种架构单片机的开发，并具有强大的调试功能
+* [Atmel Studio](https://www.microchip.com/mplab/avr-support/atmel-studio-7): Microchip/Atmel 官方提供的 IDE，用于 AVR 和 SAM 单片机的开发。基于 Visual Studio，并提供免费的 [Visual Assistant](https://www.wholetomato.com) 授权
 
 更多资源：
 
 * [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)&nbsp;[nhivp/Awesome-Embedded](https://github.com/nhivp/Awesome-Embedded)
 
 ### 软件：3D 建模、CAD 类
+
+### 软件：互动、可视化
 
 ## 项目与专题
 
