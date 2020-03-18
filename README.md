@@ -191,6 +191,11 @@ DIY Projects/Tools/Books for Makers
 
 ### 软件：3D 建模、CAD 类
 
+* [Autodesk Tinkercad](https://www.tinkercad.com/)
+* [SketchUp](https://www.sketchup.com/)
+* [SolidWorks](https://www.solidworks.com/zh-hans)
+* [CorelDRAW=](https://www.coreldraw.com/cn/product/coreldraw/)
+
 ### 软件：互动、可视化
 
 ## 项目与专题
