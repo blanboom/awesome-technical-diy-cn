@@ -104,6 +104,9 @@ DIY Projects/Tools/Books for Makers
 
 - 万用表
 - 示波器
+  - [Seeed-Studio/DSO\_Nano](https://github.com/Seeed-Studio/DSO_Nano): DIY 示波器
+- 逻辑分析仪
+  - [DSLoigc](https://www.dreamsourcelab.com/): 开源、跨平台的 USB 逻辑分析仪
 - 电烙铁/焊台/热风枪/吸锡器
 - 3D 打印机
 - 激光切割机/雕刻机
@@ -111,6 +114,8 @@ DIY Projects/Tools/Books for Makers
 ### 开发板、单片机
 
 目前市面上流行的单片机种类较多，本节只整理比较流行、有代表性的。
+
+常见的开发板/单片机：
 
 * [Arduino](https://www.arduino.cc/): 基于 AVR 的单片机开发板，拥有完善的生态（软件、教程、各种周边模块等），收到了世界各地 DIY 爱好者的喜爱。且有不少厂商推出 Arduino 开发板，部分在价格上有优势、部分增加了新的功能
   * [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)&nbsp;[Lembed/Awesome-arduino](https://github.com/Lembed/Awesome-arduino)
@@ -123,6 +128,7 @@ DIY Projects/Tools/Books for Makers
   * [NodeMcu](https://www.nodemcu.com/index\_cn.html): 基于 ESP8266 的开发板
 * [ESP32](https://www.espressif.com/en/products/hardware/esp32/overview): 支持 Wi-Fi 与蓝牙的单片机
   * [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)&nbsp;[agucova/awesome-esp](https://github.com/agucova/awesome-esp)
+  * [M5Stack](https://m5stack.com/): 小巧、模块化的 ESP32 开发板
 * [Mbed](https://os.mbed.com/platforms/): ARM Mbed 认证的开发板，能够兼容 Mbed 的一系列开发工具
 * [8051 系列](https://en.wikipedia.org/wiki/Intel_MCS-51): Intel 推出的单片机系列，国内不少单片机教程基于 8051，目前较为流行的是各个厂商推出的增强型 8051 单片机
   * [STC](http://www.stcmcudata.com/): 国内较为著名的增强型 8051 单片机
@@ -137,11 +143,18 @@ DIY Projects/Tools/Books for Makers
   * [CC3200](http://www.ti.com/product/CC3200): 支持 Wi-Fi 的单片机，基于 32 位 ARM Cortex-M
 * [WRTnode](http://www.wrtnode.cc/): 物联网开发板，部分型号支持运行 OpenWrt
 
+其他有特色的开发板：
+
+* [HE](http://www.dragino.com/products/linux-module/item/87-he.html): 小巧的 AR9331 OpenWrt 模块，兼容 Arduino Yún
+* [NavSpark](http://navspark.mybigcommerce.com/): 内置 GPS/北斗的 Arduino
+
 ### 单板计算机（SBC）
 
 与单片机开发板相比，单板计算机一般运行 Linux 等通用操作系统，性能也更强大。
 
-* [Teach, Learn, and Make with Raspberry Pi – Raspberry Pi](https://www.raspberrypi.org/): 最著名的单板计算机
+常见的单板计算机：
+
+* [ Raspberry Pi](https://www.raspberrypi.org/): 最著名的单板计算机
   * [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)&nbsp;[thibmaek/awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi)
   * [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)&nbsp;[blackout314/awesome-raspberry-pi](https://github.com/blackout314/awesome-raspberry-pi)
   * [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)&nbsp;[wwj718/awesome-raspberry-pi-zh](https://github.com/wwj718/awesome-raspberry-pi-zh)
@@ -158,7 +171,14 @@ DIY Projects/Tools/Books for Makers
 * [Khadas](https://www.khadas.com/)
 * [UDOO](https://www.udoo.org/)
 
+其他有特色的单板计算机：
+
+- [Marvell ESPRESSObin](http://espressobin.net/): 具有强大的网络和存储功能，除了用于实现物联网项目，也可以用于 DIY NAS 或路由器
+
+
 ### 电子模块
+
+- 待补充
 
 ### 软件：电路设计与仿真、PCB 设计
 
@@ -194,21 +214,89 @@ DIY Projects/Tools/Books for Makers
 * [Autodesk Tinkercad](https://www.tinkercad.com/)
 * [SketchUp](https://www.sketchup.com/)
 * [SolidWorks](https://www.solidworks.com/zh-hans)
-* [CorelDRAW=](https://www.coreldraw.com/cn/product/coreldraw/)
+* [CorelDRAW](https://www.coreldraw.com/cn/product/coreldraw/)
 
 ### 软件：互动、可视化
+
+* [Processing](https://processing.org/)
 
 ## 项目与专题
 
 ### 🏠智能家居/家庭自动化/环境监测
+
+
+
 ### 🎹音频与音乐
+
+软件与工具：
+
+- [Mozzi](http://sensorium.github.io/Mozzi/): Arduino PWM 音效库
+
+参考项目：
+
+- [MakeyMakey](https://makeymakey.com)
+- [Theremin 泰勒明](https://www.instructables.com/id/Make-Your-Own-Simple-Theremin/)
+- [Making Music with Makeblock](http://www.instructables.com/id/Making-Music-with-Makeblock/)
+- [Arduino-Controlled Robotic Drum](http://www.instructables.com/id/Arduino-Controlled-Robotic-Drum/)
+- [DIY 等离子扬声器](https://web.archive.org/web/20110305020006/https://www.guokr.com/post/9494/)
+- [Arduino-Powered Turntables That Turn DJing Into Child's Play](https://www.wired.com/2014/09/arduino-powered-turntables-that-turn-djing-into-childs-play/): 互动音乐教育装置
+- [Fifty speakers for an interactive sound sculpture](http://blog.arduino.cc/2015/01/26/fifty-speakers-for-an-interactive-sound-sculpture/): 五十个扬声器做成的互动声音雕塑
+- [Bee Uno - Arduino-controlled DJ midi controller](https://www.youtube.com/watch?v=qXtSZuzXReg#t=38)
+- [Singing Plant. Make Your Plant Sing With Arduino, Touche and a Gameduino](http://www.instructables.com/id/Singing-plant-Make-your-plant-sing-with-Arduino-/?ALLSTEPS): 会唱歌的植物
+- [SNF Drumming MIDI Glove using Arduino and light sensors](http://www.instructables.com/id/SNF-Drumming-MIDI-Glove-using-Arduino-and-light-se/)
+- [Electronic Instrument](http://www.instructables.com/id/Electronic-Instrument/?ALLSTEPS)
+- [Making An ARM Powered MIDI Synthesizer](http://hackaday.com/2013/12/28/making-an-arm-powered-midi-synthesizer/)
+- [Musical MIDI Shoes](http://www.instructables.com/id/Musical-MIDI-Shoes/)
+- [Making music with your muscles!](https://blog.arduino.cc/2018/06/04/making-music-with-your-muscles/): 利用肌肉电传感器（EMG）做为输入装置，产生音乐
+* [Firefly Jar Portable Bluetooth Speakers](https://www.instructables.com/id/Firefly-Jar-Portable-Bluetooth-Speakers/): 使用萤火虫罐制作蓝牙扬声器
+* [3D Printed Mini Bluetooth Speaker](https://www.instructables.com/id/3D-Printed-Mini-Bluetooth-Speaker/): 迷你蓝牙扬声器
+* [Bluetooth Speaker W/ Music-Reactive LED Matrix](https://www.instructables.com/id/Bluetooth-Speaker-W-Music-Reactive-LED-Matrix/): 带有 LED 点阵，能够显示音乐频谱的蓝牙扬声器
+
+
 ### 🕹自制游戏机
+
+- [Arduino Esplora](http://arduino.cc/en/Main/ArduinoBoardEsplora): 游戏摇杆形状的 Arduino，内置话筒、光线传感器、加速度传感器、LCD 插槽等
+- [Gamebuino](http://gamebuino.com): 基于 Arduino 的开源游戏机
+- [Gameduino](http://excamera.com/sphinx/gameduino/): Arduino 游戏扩展板，带有 VGA 和音频输出，使用 SPI 通信，基于 FPGA
+- [SmartGPU](http://www.vizictechnologies.com/#!smartgpu-2/c1rc2)：用于 Arduino，带图形加速的 LCD 屏幕
+- [fdivitto/FabGL](https://github.com/fdivitto/fabgl): 在 ESP32 上制作游戏的全套软件库 Display Controller (VGA, SSD1306), PS/2 Mouse and Keyboard Controller, Graphics Library, Sound Engine, Game Engine and ANSI/VT Terminal for the ESP32
+- [Building a ‘Homebrew’ Video Game Console | Internal Register](https://internalregister.github.io/2019/03/14/Homebrew-Console.html)
+
+更多资源：
+
+- [Rewind: 30 projects from 2015 that gamers will love](https://web.archive.org/web/20151224083849/http://blog.atmel.com/2015/12/17/rewind-30-projects-from-2015-that-gamers-will-love/)
+
 ### 📺视频与视觉
 ### 📈信息可视化
 ### 🕸分布式
 ### 🧮高性能计算
 ### 🌐网络与通信
-### 🤖️机器人/小车/飞行器
+### 🤖️机器人/小车
+
+* [Arduino Neural Network Robot - Instructables](https://www.instructables.com/id/Arduino-Neural-Network-Robot/): Arduino 神经网络机器人
+
+### ✈️飞行器
+
+基础知识：
+
+- [用Arduino扩展无人飞行器+普及无人机知识，不会算法的人必看](http://www.arduino.cn/forum.php?mod=viewthread&tid=11353&page=1&extra=#pid96716%23625076-tsina-1-7942-9345deeb3ac96e85cdddd8dcee26bb35)
+- [不思带你【从零开始】做四轴！！！(强势整理搬运版)](http://www.anobbs.com/thread-56-1-1.html)
+- [从零做四轴飞行器](http://wellmakers.com/?p=7)
+
+开源项目：
+
+- [MultiWii](http://www.multiwii.com/)
+- [Ardupilot](http://ardupilot.com/)
+- [PX4](https://pixhawk.org/start) (基于 Nuttx)
+- [CrazyFlie](http://www.bitcraze.se/)
+- [Crazepony](http://www.crazepony.com/)
+- [圆点博士小四轴飞行器](http://www.etootle.com/product/flight-kit.html)（部分开源）
+- [Hom-Wang/Quadcopter](https://github.com/Hom-Wang/Quadcopter)
+
+商业级产品参考：
+
+- [飞！行！器！](https://web.archive.org/web/20150318063055/http://knewone.com/lists/53f2027631302d67b8800000)  
+
 ### 🐸生物与生态
 ### 📺复古计算
 ### ⌚️可穿戴设备
