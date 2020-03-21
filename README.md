@@ -300,6 +300,11 @@ DIY Projects/Tools/Books for Makers
 ### 🐸生物与生态
 ### 📺复古计算
 ### ⌚️可穿戴设备
+
+* [Nike+ FuelBand SE BLE Protocol Reversed](https://www.evilsocket.net/2015/01/29/nike-fuelband-se-ble-protocol-reversed/)
+* [Open source DIY Nike+ Fuelband | Hackaday.io](https://hackaday.io/project/27882-open-source-diy-nike-fuelband)
+* [杜洋工作室 DoWatch](http://www.doyoung.net/works/DoWatch/index.html)
+
 ### 🕰时钟与屏幕
 ### ⛓互动装置
 ### 📸POV（视觉暂留）
