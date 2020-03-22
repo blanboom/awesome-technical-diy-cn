@@ -11,6 +11,39 @@ DIY Projects/Tools/Books for Makers
 
 <!-- toc -->
 
+- [资源](#%E8%B5%84%E6%BA%90)
+  * [书籍与杂志](#%E4%B9%A6%E7%B1%8D%E4%B8%8E%E6%9D%82%E5%BF%97)
+  * [网站与讨论区](#%E7%BD%91%E7%AB%99%E4%B8%8E%E8%AE%A8%E8%AE%BA%E5%8C%BA)
+  * [社交网站账号](#%E7%A4%BE%E4%BA%A4%E7%BD%91%E7%AB%99%E8%B4%A6%E5%8F%B7)
+  * [活动与展会](#%E6%B4%BB%E5%8A%A8%E4%B8%8E%E5%B1%95%E4%BC%9A)
+  * [厂商、网店](#%E5%8E%82%E5%95%86%E7%BD%91%E5%BA%97)
+- [工具、材料](#%E5%B7%A5%E5%85%B7%E6%9D%90%E6%96%99)
+  * [常用工具](#%E5%B8%B8%E7%94%A8%E5%B7%A5%E5%85%B7)
+  * [开发板、单片机](#%E5%BC%80%E5%8F%91%E6%9D%BF%E5%8D%95%E7%89%87%E6%9C%BA)
+  * [单板计算机（SBC）](#%E5%8D%95%E6%9D%BF%E8%AE%A1%E7%AE%97%E6%9C%BAsbc)
+  * [电子模块](#%E7%94%B5%E5%AD%90%E6%A8%A1%E5%9D%97)
+  * [软件：电路设计与仿真、PCB 设计](#%E8%BD%AF%E4%BB%B6%E7%94%B5%E8%B7%AF%E8%AE%BE%E8%AE%A1%E4%B8%8E%E4%BB%BF%E7%9C%9Fpcb-%E8%AE%BE%E8%AE%A1)
+  * [软件：嵌入式开发、调试工具](#%E8%BD%AF%E4%BB%B6%E5%B5%8C%E5%85%A5%E5%BC%8F%E5%BC%80%E5%8F%91%E8%B0%83%E8%AF%95%E5%B7%A5%E5%85%B7)
+  * [软件：嵌入式操作系统、驱动、GUI 库等](#%E8%BD%AF%E4%BB%B6%E5%B5%8C%E5%85%A5%E5%BC%8F%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E9%A9%B1%E5%8A%A8gui-%E5%BA%93%E7%AD%89)
+  * [软件：3D 建模、CAD 类](#%E8%BD%AF%E4%BB%B63d-%E5%BB%BA%E6%A8%A1cad-%E7%B1%BB)
+  * [软件：互动、可视化](#%E8%BD%AF%E4%BB%B6%E4%BA%92%E5%8A%A8%E5%8F%AF%E8%A7%86%E5%8C%96)
+- [项目与专题](#%E9%A1%B9%E7%9B%AE%E4%B8%8E%E4%B8%93%E9%A2%98)
+  * [🎹音频与音乐](#%F0%9F%8E%B9%E9%9F%B3%E9%A2%91%E4%B8%8E%E9%9F%B3%E4%B9%90)
+  * [🕹自制游戏机](#%F0%9F%95%B9%E8%87%AA%E5%88%B6%E6%B8%B8%E6%88%8F%E6%9C%BA)
+  * [🕰时钟、屏幕、LED、装饰品](#%F0%9F%95%B0%E6%97%B6%E9%92%9F%E5%B1%8F%E5%B9%95led%E8%A3%85%E9%A5%B0%E5%93%81)
+  * [🎃视觉暂留（POV）类](#%F0%9F%8E%83%E8%A7%86%E8%A7%89%E6%9A%82%E7%95%99pov%E7%B1%BB)
+  * [📈信息可视化](#%F0%9F%93%88%E4%BF%A1%E6%81%AF%E5%8F%AF%E8%A7%86%E5%8C%96)
+  * [🤖️机器人/小车](#%F0%9F%A4%96%EF%B8%8F%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%B0%8F%E8%BD%A6)
+  * [✈️飞行器](#%E2%9C%88%EF%B8%8F%E9%A3%9E%E8%A1%8C%E5%99%A8)
+  * [🐸生物与生态](#%F0%9F%90%B8%E7%94%9F%E7%89%A9%E4%B8%8E%E7%94%9F%E6%80%81)
+  * [📺复古计算](#%F0%9F%93%BA%E5%A4%8D%E5%8F%A4%E8%AE%A1%E7%AE%97)
+  * [🏠智能家居/家庭自动化/环境监测](#%F0%9F%8F%A0%E6%99%BA%E8%83%BD%E5%AE%B6%E5%B1%85%E5%AE%B6%E5%BA%AD%E8%87%AA%E5%8A%A8%E5%8C%96%E7%8E%AF%E5%A2%83%E7%9B%91%E6%B5%8B)
+  * [⌚️可穿戴设备](#%E2%8C%9A%EF%B8%8F%E5%8F%AF%E7%A9%BF%E6%88%B4%E8%AE%BE%E5%A4%87)
+  * [🔋能源相关](#%F0%9F%94%8B%E8%83%BD%E6%BA%90%E7%9B%B8%E5%85%B3)
+  * [⛓互动装置](#%E2%9B%93%E4%BA%92%E5%8A%A8%E8%A3%85%E7%BD%AE)
+- [欢迎参与](#%E6%AC%A2%E8%BF%8E%E5%8F%82%E4%B8%8E)
+- [许可证](#%E8%AE%B8%E5%8F%AF%E8%AF%81)
+
 <!-- tocstop -->
 
 ## 资源
@@ -98,7 +131,7 @@ DIY Projects/Tools/Books for Makers
 * [Digi-Key 中国](https://www.digikey.cn/)
 * [e络盟 element14](https://cn.element14.com/)
 
-## 工具
+## 工具、材料
 
 ### 常用工具
 
@@ -191,7 +224,7 @@ DIY Projects/Tools/Books for Makers
 - [Proteus](https://www.labcenter.com)
 - [Autodesk Tinkercad Circuits](https://www.tinkercad.com/circuits)
 
-### 软件：嵌入式编程
+### 软件：嵌入式开发、调试工具
 
 * [Keil 8051 Microcontroller Development Tools](http://www.keil.com/c51/): 国内常用的 8051 开发工具
 * [Keil MDK](https://www2.keil.com/mdk5): ARM Cortex-M 单片机开发工具
@@ -201,13 +234,52 @@ DIY Projects/Tools/Books for Makers
 * [Arduino Pro IDE](https://www.arduino.cc/pro/arduino-pro-ide): Arduino 官方 IDE，基于 Visual Studio Code，比 Arduino IDE 拥有更丰富的功能
 * [Mbed Studio](https://os.mbed.com/studio/): ARM Mbed 提供的免费 IDE
 * [GNU MCU Eclipse](https://gnu-mcu-eclipse.github.io/): Eclipse 插件，支持在 Eclipse 上进行嵌入式开发
+* [CoIDE](https://www.st.com/zh/development-tools/coide.html): 
 * [Visual Micro](https://www.visualmicro.com/): Visual Studio 插件，支持在 Visual Studio 上进行 Arduino 的开发和调试
 * [VisualGDB](https://visualgdb.com/?features=embedded): Visual Studio 插件，支持在 Visual Studio 上进行 Arduino、ESP8266/ESP32、Mbed 以及多种架构单片机的开发，并具有强大的调试功能
 * [Atmel Studio](https://www.microchip.com/mplab/avr-support/atmel-studio-7): Microchip/Atmel 官方提供的 IDE，用于 AVR 和 SAM 单片机的开发。基于 Visual Studio，并提供免费的 [Visual Assistant](https://www.wholetomato.com) 授权
+* [DAPLink (CMSIS-DAP)](https://armmbed.github.io/DAPLink/): ARM 官方开源的芯片调试工具，可用于代替 J-Link 等收费工具
 
 更多资源：
 
 * [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)&nbsp;[nhivp/Awesome-Embedded](https://github.com/nhivp/Awesome-Embedded)
+
+### 软件：嵌入式操作系统、驱动、GUI 库等
+
+- 嵌入式操作系统
+  - [Apache NuttX](https://nuttx.apache.org): 开源的嵌入式实时操作系统，POSIX 兼容，功能丰富（任务管理、CPU 占用率测量、内存管理、丰富的文件系统支持、虚拟文件系统、设备驱动、网络、USB、电源管理、音频解码器、GUI、Shell、支持浮点运算的数学库、日志等）。著名的飞控软件 PX4 就是基于 NuttX 的
+  - [RIOT](https://github.com/RIOT-OS/RIOT): 对物联网友好的嵌入式操作系统，使用了 [wiselib](https://github.com/ibr-alg/wiselib) 算法库
+  - [Contiki-NG](https://github.com/contiki-ng/contiki-ng): 物联网嵌入式操作系统，[使用了 Protothreads 协程库](https://coolshell.cn/articles/10975.html)
+  - [Atomthreads](http://atomthreads.com/): 轻量级嵌入式实时操作系统，整个操作系统仅有 5 个 `.c` 文件，除了应用于嵌入式项目，也非常适合用于学习嵌入式操作系统的原理
+  - [FreeRTOS](https://www.freertos.org)
+  - [TinyOS](https://github.com/tinyos/tinyos-main)
+  * [ChibiOS](http://www.chibios.org/dokuwiki/doku.php)
+  
+- 用于嵌入式设备的脚本语言运行环境
+
+  * [eLua](http://www.eluaproject.net/): 用于单片机的 Lua 环境
+  * [MicroPython](https://micropython.org/): 用于单片机的 Python 环境
+  * [Espruino](https://www.espruino.com/): 用于单片机的 JavaScript 环境
+  * [Lua RTOS](https://github.com/whitecatboard/Lua-RTOS-ESP32): 支持 Lua 的嵌入式操作系统
+  * [Ruff](https://ruff.io): 支持 JavaScript 的嵌入式操作系统
+  * [Pumbaa](https://pumbaa.readthedocs.io/en/latest/): 支持 MicroPython 的嵌入式操作系统
+
+- 驱动与外设库
+
+  - [libopenstm32、libopencm3](https://github.com/libopencm3/libopencm3): 开源的 ARM Cortex-M 单片机外设库，在进行开源的嵌入式项目时，用于取代官方的外设库（例如 STM32 标准外设库），避免带来与 GPL 协议不兼容的问题
+  * [JorgeAparicio/libstm32pp](https://github.com/JorgeAparicio/libstm32pp): 基于 C++ 的 STM32 外设库
+  * [andysworkshop/stm32plus](https://github.com/andysworkshop/stm32plus): 基于 C++ 的 STM32 外设库
+	* [libemb](http://www.kaltpost.de/?page_id=708): 提供串口、控制台IO、shell、nRF24l01无线通信等功能
+	
+- 图形与 GUI
+
+  - [uGFX](https://ugfx.io/): 轻量级嵌入式 GUI 库
+  - [U8g2](https://github.com/olikraus/u8g2): 用于嵌入式设备的图形库，支持 Arduino
+
+- 其他
+
+  - [The Embedded Rust Book](https://rust-embedded.github.io/book/): 使用 Rust 进行嵌入式开发的教程
+  * [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)&nbsp; [rust-embedded/awesome-embedded-rust](https://github.com/rust-embedded/awesome-embedded-rust)
 
 ### 软件：3D 建模、CAD 类
 
@@ -221,10 +293,6 @@ DIY Projects/Tools/Books for Makers
 * [Processing](https://processing.org/)
 
 ## 项目与专题
-
-### 🏠智能家居/家庭自动化/环境监测
-
-
 
 ### 🎹音频与音乐
 
@@ -266,14 +334,32 @@ DIY Projects/Tools/Books for Makers
 
 - [Rewind: 30 projects from 2015 that gamers will love](https://web.archive.org/web/20151224083849/http://blog.atmel.com/2015/12/17/rewind-30-projects-from-2015-that-gamers-will-love/)
 
-### 📺视频与视觉
+### 🕰时钟、屏幕、LED、装饰品
+
+* [LED Cube 8x8x8](https://www.instructables.com/id/Led-Cube-8x8x8/): 光立方
+* [SMD Nixie Clock](https://www.instructables.com/id/SMD-Nixie-Clock/): 辉光管时钟
+* [如何制作一个 WIFI 像素时钟，只要 Lametric 十分之一的价格](https://sspai.com/post/54225)
+* [Time Twister](https://tiltedtwister.com/timetwister.html): 使用乐高套件制作的机械数字时钟
+* [Build a Pi Zero W pocket projector - MickMake](https://www.youtube.com/watch?v=XFciR-U7yhc): DIY 微型投影仪
+* [DIY Night Lamp Light Stand for Room Decor](https://www.instructables.com/id/DIY-Night-Lamp-Light-Stand-for-Room-Decor/)
+* [DIY - LED Water Lamp](https://www.instructables.com/id/DIY-LED-Water-Lamp-1/)
+* [自行车LED投影灯](https://web.archive.org/web/20131107111144/http://www.xiankankan.com/index.php/archives/26049)
+* [Make an Interactive IPad Controlled LED Wall](https://www.instructables.com/id/Make-an-interactive-iPad-controlled-LED-Wall/)
+
+### 🎃视觉暂留（POV）类
+
+* [制作 SHOOK16 摇摇棒](http://www.doyoung.net/articles/SHOOK16/SHOOK16_DYS.pdf)
+* [Arduino Wireless Power POV Display](https://www.instructables.com/id/Arduino-Wireless-Power-POV-Display/): 2D 「风火轮」
+* [PropHelix is an amazing 3D POV holographic display](https://blog.arduino.cc/2017/06/09/prophelix-is-an-amazing-3d-pov-holographic-display/): 3D 「风火轮」
+* [Bike Wheel POV Display](https://learn.adafruit.com/bike-wheel-pov-display): 自行车「风火轮」
+
 ### 📈信息可视化
-### 🕸分布式
-### 🧮高性能计算
-### 🌐网络与通信
+* [Twitter Mood Light - the World's Mood in a Box](https://www.instructables.com/id/Twitter-Mood-Light-The-Worlds-Mood-in-a-Box/): 世界心情指示器。实时统计 Twitter 上所有关于心情、情绪的词汇，并通过不同的色彩来显示「世界的心情」
+
 ### 🤖️机器人/小车
 
 * [Arduino Neural Network Robot - Instructables](https://www.instructables.com/id/Arduino-Neural-Network-Robot/): Arduino 神经网络机器人
+* [Clean And Minimal Self-balancing Robot](https://hackaday.com/2013/05/13/clean-and-minimal-self-balancing-robot/): 小巧、容易制作的自平衡小车
 
 ### ✈️飞行器
 
@@ -298,16 +384,41 @@ DIY Projects/Tools/Books for Makers
 - [飞！行！器！](https://web.archive.org/web/20150318063055/http://knewone.com/lists/53f2027631302d67b8800000)  
 
 ### 🐸生物与生态
+
+- [鱼菜共生（Aquaponics）](http://www.yogeev.com/article/35557.html)
+- [Arduino 自动浇花套件](https://www.dfrobot.com.cn/goods-503.html)
+- [盆栽树](https://web.archive.org/web/20131008131052/http://www.xiankankan.com/index.php/archives/25742)
+
 ### 📺复古计算
+
+- [The MOnSter 6502](http://monster6502.com): 用分立元件搭建的 6502 CPU，通过 LED 显示内部状态。可用于 CPU 原理的教学
+
+### 🏠智能家居/家庭自动化/环境监测
+
+- [Arduino + 灰尘传感器实现空气质量检测](https://pwfee.com/2015/12/GP2Y1010AU0F)
+
 ### ⌚️可穿戴设备
+
+工具：
+
+* [ Arduino LilyPad](https://www.arduino.cc/en/Main/ArduinoBoardLilyPad/): 可以缝在衣物上的 Arduino 开发板
+
+项目：
 
 * [Nike+ FuelBand SE BLE Protocol Reversed](https://www.evilsocket.net/2015/01/29/nike-fuelband-se-ble-protocol-reversed/)
 * [Open source DIY Nike+ Fuelband | Hackaday.io](https://hackaday.io/project/27882-open-source-diy-nike-fuelband)
-* [杜洋工作室 DoWatch](http://www.doyoung.net/works/DoWatch/index.html)
+* [DoWatch DIY 手表](http://www.doyoung.net/works/DoWatch/index.html)
 
-### 🕰时钟与屏幕
+### 🔋能源相关
+
+* [Smartphone Charger Powered by Fire](https://www.instructables.com/id/Battery-Charger-Powered-by-Fire/): 火力发电的手机充电器
+* [How to Build a Bicycle Generator](https://www.instructables.com/id/How-to-Build-a-Bicycle-Generator-1/): 自行车改装发电机
+* [Dandelion Wind Turbine](https://www.instructables.com/id/Dandelion-Wind-turbine/): 风力发电机
+
 ### ⛓互动装置
-### 📸POV（视觉暂留）
+
+* [This wearable robot can zip up your jacket for you](https://atmelcorporation.wordpress.com/2015/02/16/this-wearable-robot-can-zip-up-your-jacket-for-you/): 一个能自动开拉链的小装置
+* [激光写字装置](https://web.archive.org/web/20150101165110/http://oszine.com/happy-birth-day-from-a-tech-men/#): 可作为礼物的激光写字装置（原文链接已失效，无法加载图片，可使用[此第三方网站的转载链接](https://archive.is/jJrHr)阅读）
 
 ## 欢迎参与
 
