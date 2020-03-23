@@ -55,6 +55,7 @@ DIY Projects/Tools/Books for Makers
 * [Make](https://makezine.com/): 著名的科技 DIY 类杂志，中文版名为《爱上制作》，已停刊
 * [The MagPi magazine](https://magpi.raspberrypi.org/)
 * [Servo Magazine](https://www.servomagazine.com/)
+* [HackSpace magazine](https://raspberrypipress.imbmsubscriptions.com/hackspace-magazine/)
 
 ### 网站与讨论区
 
