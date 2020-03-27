@@ -270,8 +270,9 @@ DIY Projects/Tools/Books for Makers
   - [libopenstm32、libopencm3](https://github.com/libopencm3/libopencm3): 开源的 ARM Cortex-M 单片机外设库，在进行开源的嵌入式项目时，用于取代官方的外设库（例如 STM32 标准外设库），避免带来与 GPL 协议不兼容的问题
   * [JorgeAparicio/libstm32pp](https://github.com/JorgeAparicio/libstm32pp): 基于 C++ 的 STM32 外设库
   * [andysworkshop/stm32plus](https://github.com/andysworkshop/stm32plus): 基于 C++ 的 STM32 外设库
-	* [libemb](http://www.kaltpost.de/?page_id=708): 提供串口、控制台IO、shell、nRF24l01无线通信等功能
-	
+  * [libemb](http://www.kaltpost.de/?page_id=708): 提供串口、控制台IO、shell、nRF24l01无线通信等功能
+  * [pigweed/pigweed - Git at Google](https://pigweed.googlesource.com/pigweed/pigweed/): 来自 Google 的嵌入式库
+
 - 图形与 GUI
 
   - [uGFX](https://ugfx.io/): 轻量级嵌入式 GUI 库
