@@ -347,6 +347,7 @@ DIY Projects/Tools/Books for Makers
 * [DIY - LED Water Lamp](https://www.instructables.com/id/DIY-LED-Water-Lamp-1/)
 * [自行车LED投影灯](https://web.archive.org/web/20131107111144/http://www.xiankankan.com/index.php/archives/26049)
 * [Make an Interactive IPad Controlled LED Wall](https://www.instructables.com/id/Make-an-interactive-iPad-controlled-LED-Wall/)
+* [1,156 LEDs make up these dual acrylic light-up panels](https://blog.arduino.cc/2020/03/24/1156-leds-make-up-these-dual-acrylic-light-up-panels/)
 
 ### 🎃视觉暂留（POV）类
 
