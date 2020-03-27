@@ -422,6 +422,10 @@ DIY Projects/Tools/Books for Makers
 
 * [This wearable robot can zip up your jacket for you](https://atmelcorporation.wordpress.com/2015/02/16/this-wearable-robot-can-zip-up-your-jacket-for-you/): 一个能自动开拉链的小装置
 * [激光写字装置](https://web.archive.org/web/20150101165110/http://oszine.com/happy-birth-day-from-a-tech-men/#): 可作为礼物的激光写字装置（原文链接已失效，无法加载图片，可使用[此第三方网站的转载链接](https://archive.is/jJrHr)阅读）
+* 写字机器人
+  * [AxiDraw Writing and Drawing Machines](https://www.axidraw.com/)
+  * [Drawing Robot for Arduino](https://www.instructables.com/id/Arduino-Drawing-Robot/)
+  * [Make Arduino XY Plotter Drawing Robot Polargraph](https://www.hackster.io/mertarduino/make-arduino-xy-plotter-drawing-robot-polargraph-b4fe36)
 
 ## 欢迎参与
 
