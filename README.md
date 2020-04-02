@@ -321,6 +321,7 @@ DIY Projects/Tools/Books for Makers
 * [Firefly Jar Portable Bluetooth Speakers](https://www.instructables.com/id/Firefly-Jar-Portable-Bluetooth-Speakers/): 使用萤火虫罐制作蓝牙扬声器
 * [3D Printed Mini Bluetooth Speaker](https://www.instructables.com/id/3D-Printed-Mini-Bluetooth-Speaker/): 迷你蓝牙扬声器
 * [Bluetooth Speaker W/ Music-Reactive LED Matrix](https://www.instructables.com/id/Bluetooth-Speaker-W-Music-Reactive-LED-Matrix/): 带有 LED 点阵，能够显示音乐频谱的蓝牙扬声器
+* [自制MP3播放器Bric - WAA-ZephRay - bilibili](https://www.bilibili.com/video/BV1ta4y1t7m2/)
 
 
 ### 🕹自制游戏机
