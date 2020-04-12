@@ -333,6 +333,7 @@ DIY Projects/Tools/Books for Makers
 - [SmartGPU](http://www.vizictechnologies.com/#!smartgpu-2/c1rc2)：用于 Arduino，带图形加速的 LCD 屏幕
 - [fdivitto/FabGL](https://github.com/fdivitto/fabgl): 在 ESP32 上制作游戏的全套软件库 Display Controller (VGA, SSD1306), PS/2 Mouse and Keyboard Controller, Graphics Library, Sound Engine, Game Engine and ANSI/VT Terminal for the ESP32
 - [Building a ‘Homebrew’ Video Game Console | Internal Register](https://internalregister.github.io/2019/03/14/Homebrew-Console.html)
+- [Playing Tetris On An Oscilloscope](https://hackaday.com/2014/04/26/playing-tetris-on-an-oscilloscope): 在示波器上玩俄罗斯方块
 
 更多资源：
 
