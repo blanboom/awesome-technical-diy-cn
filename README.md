@@ -427,6 +427,7 @@ DIY Projects/Tools/Books for Makers
   * [AxiDraw Writing and Drawing Machines](https://www.axidraw.com/)
   * [Drawing Robot for Arduino](https://www.instructables.com/id/Arduino-Drawing-Robot/)
   * [Make Arduino XY Plotter Drawing Robot Polargraph](https://www.hackster.io/mertarduino/make-arduino-xy-plotter-drawing-robot-polargraph-b4fe36)
+* [【Maker源代码】制作一个宠物机器人 - DF创客社区 - 分享创造的喜悦](https://mc.dfrobot.com.cn/thread-16938-1-1.html)
 
 ## 欢迎参与
 
