@@ -318,10 +318,11 @@ DIY Projects/Tools/Books for Makers
 - [Making An ARM Powered MIDI Synthesizer](http://hackaday.com/2013/12/28/making-an-arm-powered-midi-synthesizer/)
 - [Musical MIDI Shoes](http://www.instructables.com/id/Musical-MIDI-Shoes/)
 - [Making music with your muscles!](https://blog.arduino.cc/2018/06/04/making-music-with-your-muscles/): 利用肌肉电传感器（EMG）做为输入装置，产生音乐
-* [Firefly Jar Portable Bluetooth Speakers](https://www.instructables.com/id/Firefly-Jar-Portable-Bluetooth-Speakers/): 使用萤火虫罐制作蓝牙扬声器
-* [3D Printed Mini Bluetooth Speaker](https://www.instructables.com/id/3D-Printed-Mini-Bluetooth-Speaker/): 迷你蓝牙扬声器
-* [Bluetooth Speaker W/ Music-Reactive LED Matrix](https://www.instructables.com/id/Bluetooth-Speaker-W-Music-Reactive-LED-Matrix/): 带有 LED 点阵，能够显示音乐频谱的蓝牙扬声器
-* [自制MP3播放器Bric - WAA-ZephRay - bilibili](https://www.bilibili.com/video/BV1ta4y1t7m2/)
+- [Midify Your Life! Give Any Sensor the Power of MIDI](https://blog.tindie.com/2020/04/midify-your-life/)
+- [Firefly Jar Portable Bluetooth Speakers](https://www.instructables.com/id/Firefly-Jar-Portable-Bluetooth-Speakers/): 使用萤火虫罐制作蓝牙扬声器
+- [3D Printed Mini Bluetooth Speaker](https://www.instructables.com/id/3D-Printed-Mini-Bluetooth-Speaker/): 迷你蓝牙扬声器
+- [Bluetooth Speaker W/ Music-Reactive LED Matrix](https://www.instructables.com/id/Bluetooth-Speaker-W-Music-Reactive-LED-Matrix/): 带有 LED 点阵，能够显示音乐频谱的蓝牙扬声器
+- [自制MP3播放器Bric - WAA-ZephRay - bilibili](https://www.bilibili.com/video/BV1ta4y1t7m2/)
 
 
 ### 🕹自制游戏机
