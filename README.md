@@ -41,6 +41,7 @@ DIY Projects/Tools/Books for Makers
   * [⌚️可穿戴设备](#%E2%8C%9A%EF%B8%8F%E5%8F%AF%E7%A9%BF%E6%88%B4%E8%AE%BE%E5%A4%87)
   * [🔋能源相关](#%F0%9F%94%8B%E8%83%BD%E6%BA%90%E7%9B%B8%E5%85%B3)
   * [⛓互动装置](#%E2%9B%93%E4%BA%92%E5%8A%A8%E8%A3%85%E7%BD%AE)
+  * [其他](#%E5%85%B6%E4%BB%96)
 - [欢迎参与](#%E6%AC%A2%E8%BF%8E%E5%8F%82%E4%B8%8E)
 - [许可证](#%E8%AE%B8%E5%8F%AF%E8%AF%81)
 
@@ -434,6 +435,10 @@ DIY Projects/Tools/Books for Makers
   * [Drawing Robot for Arduino](https://www.instructables.com/id/Arduino-Drawing-Robot/)
   * [Make Arduino XY Plotter Drawing Robot Polargraph](https://www.hackster.io/mertarduino/make-arduino-xy-plotter-drawing-robot-polargraph-b4fe36)
 * [【Maker源代码】制作一个宠物机器人 - DF创客社区 - 分享创造的喜悦](https://mc.dfrobot.com.cn/thread-16938-1-1.html)
+
+### 其他
+
+- [Linux on an 8-bit micro?](http://dmitry.gr/index.php?r=05.Projects&proj=07.%20Linux%20on%208bit): 在 8 位 AVR 单片机上模拟 32 位 CPU，来运行 Linux
 
 ## 欢迎参与
 
