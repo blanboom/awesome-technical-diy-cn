@@ -373,6 +373,10 @@ DIY Projects/Tools/Books for Makers
 - [不思带你【从零开始】做四轴！！！(强势整理搬运版)](http://www.anobbs.com/thread-56-1-1.html)
 - [从零做四轴飞行器](http://wellmakers.com/?p=7)
 
+课程：
+
+* [Autonomous Navigation for Flying Robots](https://www.edx.org/course/autonomous-navigation-for-flying-robots): 一个关于飞行器的 MOOC 课程
+
 开源项目：
 
 - [MultiWii](http://www.multiwii.com/)
