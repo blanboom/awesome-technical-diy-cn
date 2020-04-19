@@ -400,6 +400,7 @@ DIY Projects/Tools/Books for Makers
 - [鱼菜共生（Aquaponics）](http://www.yogeev.com/article/35557.html)
 - [Arduino 自动浇花套件](https://www.dfrobot.com.cn/goods-503.html)
 - [盆栽树](https://web.archive.org/web/20131008131052/http://www.xiankankan.com/index.php/archives/25742)
+- [自制 Arduino 孵蛋器](https://create.arduino.cc/projecthub/quantenschaum/egg-incubator-ef0cf6)
 
 ### 📺复古计算
 
