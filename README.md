@@ -41,6 +41,7 @@ DIY Projects/Tools/Books for Makers
   * [⌚️可穿戴设备](#%E2%8C%9A%EF%B8%8F%E5%8F%AF%E7%A9%BF%E6%88%B4%E8%AE%BE%E5%A4%87)
   * [🔋能源相关](#%F0%9F%94%8B%E8%83%BD%E6%BA%90%E7%9B%B8%E5%85%B3)
   * [⛓互动装置](#%E2%9B%93%E4%BA%92%E5%8A%A8%E8%A3%85%E7%BD%AE)
+  * [⚡️高压相关](#%E2%9A%A1%EF%B8%8F%E9%AB%98%E5%8E%8B%E7%9B%B8%E5%85%B3)
   * [其他](#%E5%85%B6%E4%BB%96)
 - [欢迎参与](#%E6%AC%A2%E8%BF%8E%E5%8F%82%E4%B8%8E)
 - [许可证](#%E8%AE%B8%E5%8F%AF%E8%AF%81)
@@ -435,6 +436,13 @@ DIY Projects/Tools/Books for Makers
   * [Drawing Robot for Arduino](https://www.instructables.com/id/Arduino-Drawing-Robot/)
   * [Make Arduino XY Plotter Drawing Robot Polargraph](https://www.hackster.io/mertarduino/make-arduino-xy-plotter-drawing-robot-polargraph-b4fe36)
 * [【Maker源代码】制作一个宠物机器人 - DF创客社区 - 分享创造的喜悦](https://mc.dfrobot.com.cn/thread-16938-1-1.html)
+
+### ⚡️高压相关
+
+- [高压电小玩意——高压发生器，等离子蚀刻和电弧球| 果壳 科技有意思](https://www.guokr.com/article/57053/)
+- [特斯拉线圈制作教程，纪念特斯拉诞辰 - 爱折腾 - 开动脑筋 挽起袖子 准备折腾 . . .](https://web.archive.org/web/20090728031846/http://www.izheteng.com/diy/make_tesla_coil.html)
+- [自制电磁炮 V2.0 - FGHRSH 的博客](https://www.fghrsh.net/post/22.html)
+- [让电弧唱歌，自制简易zvs等离子扬声器 | DIY小组 | 果壳网 科技有意思](https://web.archive.org/web/20160609075128/http://www.guokr.com/post/730884/)
 
 ### 其他
 
