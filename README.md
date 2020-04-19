@@ -42,7 +42,7 @@ DIY Projects/Tools/Books for Makers
   * [🔋能源相关](#%F0%9F%94%8B%E8%83%BD%E6%BA%90%E7%9B%B8%E5%85%B3)
   * [⛓互动装置](#%E2%9B%93%E4%BA%92%E5%8A%A8%E8%A3%85%E7%BD%AE)
   * [⚡️高压相关](#%E2%9A%A1%EF%B8%8F%E9%AB%98%E5%8E%8B%E7%9B%B8%E5%85%B3)
-  * [其他](#%E5%85%B6%E4%BB%96)
+  * [🎉其他](#%F0%9F%8E%89%E5%85%B6%E4%BB%96)
 - [欢迎参与](#%E6%AC%A2%E8%BF%8E%E5%8F%82%E4%B8%8E)
 - [许可证](#%E8%AE%B8%E5%8F%AF%E8%AF%81)
 
@@ -447,7 +447,7 @@ DIY Projects/Tools/Books for Makers
 - [自制电磁炮 V2.0 - FGHRSH 的博客](https://www.fghrsh.net/post/22.html)
 - [让电弧唱歌，自制简易zvs等离子扬声器 | DIY小组 | 果壳网 科技有意思](https://web.archive.org/web/20160609075128/http://www.guokr.com/post/730884/)
 
-### 其他
+### 🎉其他
 
 - [Linux on an 8-bit micro?](http://dmitry.gr/index.php?r=05.Projects&proj=07.%20Linux%20on%208bit): 在 8 位 AVR 单片机上模拟 32 位 CPU，来运行 Linux
 
