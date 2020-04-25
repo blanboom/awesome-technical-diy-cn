@@ -27,6 +27,7 @@ DIY Projects/Tools/Books for Makers
   * [软件：嵌入式操作系统、驱动、GUI 库等](#%E8%BD%AF%E4%BB%B6%E5%B5%8C%E5%85%A5%E5%BC%8F%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E9%A9%B1%E5%8A%A8gui-%E5%BA%93%E7%AD%89)
   * [软件：3D 建模、CAD 类](#%E8%BD%AF%E4%BB%B63d-%E5%BB%BA%E6%A8%A1cad-%E7%B1%BB)
   * [软件：互动、可视化](#%E8%BD%AF%E4%BB%B6%E4%BA%92%E5%8A%A8%E5%8F%AF%E8%A7%86%E5%8C%96)
+  * [服务：物联网公众平台](#%E6%9C%8D%E5%8A%A1%E7%89%A9%E8%81%94%E7%BD%91%E5%85%AC%E4%BC%97%E5%B9%B3%E5%8F%B0)
 - [项目与专题](#%E9%A1%B9%E7%9B%AE%E4%B8%8E%E4%B8%93%E9%A2%98)
   * [🎹音频与音乐](#%F0%9F%8E%B9%E9%9F%B3%E9%A2%91%E4%B8%8E%E9%9F%B3%E4%B9%90)
   * [🕹自制游戏机](#%F0%9F%95%B9%E8%87%AA%E5%88%B6%E6%B8%B8%E6%88%8F%E6%9C%BA)
@@ -295,6 +296,15 @@ DIY Projects/Tools/Books for Makers
 ### 软件：互动、可视化
 
 * [Processing](https://processing.org/)
+
+### 服务：物联网公众平台
+
+- [Yeelink](http://www.yeelink.net/)
+- [Arduino IoT Cloud](https://www.arduino.cc/en/IoT/HomePage)
+- [Xively](https://xively.com/)
+
+- [乐联网 - 乐为物联开放平台](https://www.lewei50.com/)
+- 各大云计算厂商提供的物联网云服务
 
 ## 项目与专题
 
