@@ -415,6 +415,7 @@ DIY Projects/Tools/Books for Makers
 ### 📺复古计算
 
 - [The MOnSter 6502](http://monster6502.com): 用分立元件搭建的 6502 CPU，通过 LED 显示内部状态。可用于 CPU 原理的教学
+- [diy-VT100 - A Miniature hardware terminal](https://hackaday.io/project/13273/logs): 自制 VT100 终端
 
 ### 🏠智能家居/家庭自动化/环境监测
 
