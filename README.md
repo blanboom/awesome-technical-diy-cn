@@ -179,6 +179,7 @@ DIY Projects/Tools/Books for Makers
   * [CC2540](http://www.ti.com/product/CC2540): 支持蓝牙 BLE 的单片机/SoC，基于 8051
   * [CC3200](http://www.ti.com/product/CC3200): 支持 Wi-Fi 的单片机，基于 32 位 ARM Cortex-M
 * [WRTnode](http://www.wrtnode.cc/): 物联网开发板，部分型号支持运行 OpenWrt
+* [OpenMV](https://openmv.io/): 带有摄像头的开发板，支持使用 MicroPython 完成计算机视觉项目
 
 其他有特色的开发板：
 
@@ -411,6 +412,7 @@ DIY Projects/Tools/Books for Makers
 - [Arduino 自动浇花套件](https://www.dfrobot.com.cn/goods-503.html)
 - [盆栽树](https://web.archive.org/web/20131008131052/http://www.xiankankan.com/index.php/archives/25742)
 - [自制 Arduino 孵蛋器](https://create.arduino.cc/projecthub/quantenschaum/egg-incubator-ef0cf6)
+- [I'm a cyborg now! (On Building My Own Artificial Pancreas)](https://liamz.co/blog/im-a-cyborg-now-on-building-my-own-artificial-pancreas/): 自制胰腺（适用于糖尿病患者，自动检测血糖，并根据血糖水平注射胰岛素）
 
 ### 📺复古计算
 
