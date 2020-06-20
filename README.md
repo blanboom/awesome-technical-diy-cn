@@ -141,9 +141,7 @@ DIY Projects/Tools/Books for Makers
 
 - 万用表
 - 示波器
-  - [Seeed-Studio/DSO\_Nano](https://github.com/Seeed-Studio/DSO_Nano): DIY 示波器
 - 逻辑分析仪
-  - [DSLoigc](https://www.dreamsourcelab.com/): 开源、跨平台的 USB 逻辑分析仪
 - 电烙铁/焊台/热风枪/吸锡器
 - 3D 打印机
 - 激光切割机/雕刻机
@@ -459,6 +457,12 @@ DIY Projects/Tools/Books for Makers
 - [特斯拉线圈制作教程，纪念特斯拉诞辰 - 爱折腾 - 开动脑筋 挽起袖子 准备折腾 . . .](https://web.archive.org/web/20090728031846/http://www.izheteng.com/diy/make_tesla_coil.html)
 - [自制电磁炮 V2.0 - FGHRSH 的博客](https://www.fghrsh.net/post/22.html)
 - [让电弧唱歌，自制简易zvs等离子扬声器 | DIY小组 | 果壳网 科技有意思](https://web.archive.org/web/20160609075128/http://www.guokr.com/post/730884/)
+
+### 🔧工具 DIY
+
+  - [Seeed-Studio/DSO\_Nano](https://github.com/Seeed-Studio/DSO_Nano): DIY 示波器
+  - [DSLoigc](https://www.dreamsourcelab.com/): 开源、跨平台的 USB 逻辑分析仪
+  - [IBM/MicroscoPy](https://github.com/IBM/MicroscoPy): 使用 LEGO、Arduino、Raspberry Pi 制作的显微镜
 
 ### 🎉其他
 
