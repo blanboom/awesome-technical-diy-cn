@@ -215,7 +215,8 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 
 ### 电子模块
 
-- 待补充
+- 电子墨水屏模块
+  - [LILYGO TTGO 电子墨水屏模块](http://www.lilygo.cn/products.aspx?TypeId=50031&FId=t3:50031:3)：集成 ESP32 和电子墨水屏的模块/开发板
 
 ### 软件：电路设计与仿真、PCB 设计
 
@@ -363,6 +364,8 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 * [自行车LED投影灯](https://web.archive.org/web/20131107111144/http://www.xiankankan.com/index.php/archives/26049)
 * [Make an Interactive IPad Controlled LED Wall](https://www.instructables.com/id/Make-an-interactive-iPad-controlled-LED-Wall/)
 * [1,156 LEDs make up these dual acrylic light-up panels](https://blog.arduino.cc/2020/03/24/1156-leds-make-up-these-dual-acrylic-light-up-panels/)
+* [Google Analytics on Arduino EPS8266 and 2.4" TFT](https://www.peopleperhour.com/freelance-jobs/software-development/other/google-analytics-on-arduino-eps8266-and-2-4-tft-1989164): 在液晶显示屏上显示 Google Analytics 统计信息
+* [Use a Raspberry Pi and E-Ink Display to Build a Desktop Monitoring Station for Vital Information - Hackster.io](https://www.hackster.io/news/use-a-raspberry-pi-and-e-ink-display-to-build-a-desktop-monitoring-station-for-vital-information-6e33e0841b0): 在电子墨水屏上显示日历和待办事项列表
 
 ### 🎃视觉暂留（POV）类
 
