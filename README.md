@@ -366,6 +366,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 * [1,156 LEDs make up these dual acrylic light-up panels](https://blog.arduino.cc/2020/03/24/1156-leds-make-up-these-dual-acrylic-light-up-panels/)
 * [Google Analytics on Arduino EPS8266 and 2.4" TFT](https://www.peopleperhour.com/freelance-jobs/software-development/other/google-analytics-on-arduino-eps8266-and-2-4-tft-1989164): 在液晶显示屏上显示 Google Analytics 统计信息
 * [Use a Raspberry Pi and E-Ink Display to Build a Desktop Monitoring Station for Vital Information - Hackster.io](https://www.hackster.io/news/use-a-raspberry-pi-and-e-ink-display-to-build-a-desktop-monitoring-station-for-vital-information-6e33e0841b0): 在电子墨水屏上显示日历和待办事项列表
+* [Building a TRUE 4k home cinema projector (it’s awesome)](https://www.youtube.com/watch?v=YfvTjQ9MCwY): 自制 4K 投影仪
 
 ### 🎃视觉暂留（POV）类
 
