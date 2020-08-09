@@ -184,6 +184,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 
 * [HE](http://www.dragino.com/products/linux-module/item/87-he.html): 小巧的 AR9331 OpenWrt 模块，兼容 Arduino Yún
 * [NavSpark](http://navspark.mybigcommerce.com/): 内置 GPS/北斗的 Arduino
+* [Wio Terminal](https://www.seeedstudio.com/Wio-Terminal-p-4509.html): 带有蓝牙、双频 Wi-Fi、显示屏的开发板，体积小巧，带有塑料外壳
 
 ### 单板计算机（SBC）
 
