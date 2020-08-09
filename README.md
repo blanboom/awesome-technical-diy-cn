@@ -429,6 +429,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 ### 🏠智能家居/家庭自动化/环境监测
 
 - [Arduino + 灰尘传感器实现空气质量检测](https://pwfee.com/2015/12/GP2Y1010AU0F)
+- [Chicken coop door automation with Arduino](https://blog.arduino.cc/2020/08/06/chicken-coop-door-automation-with-arduino/)
 
 ### ⌚️可穿戴设备
 
