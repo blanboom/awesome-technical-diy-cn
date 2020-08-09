@@ -311,6 +311,10 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 
 ### 🎹音频与音乐
 
+基础知识：
+
+- [Skillbuilder: Midi For Makers](https://makezine.com/2020/08/06/skillbuilder-midi-for-makers/)
+
 软件与工具：
 
 - [Mozzi](http://sensorium.github.io/Mozzi/): Arduino PWM 音效库
