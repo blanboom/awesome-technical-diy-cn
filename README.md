@@ -387,6 +387,8 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 
 * [Arduino Neural Network Robot - Instructables](https://www.instructables.com/id/Arduino-Neural-Network-Robot/): Arduino 神经网络机器人
 * [Clean And Minimal Self-balancing Robot](https://hackaday.com/2013/05/13/clean-and-minimal-self-balancing-robot/): 小巧、容易制作的自平衡小车
+* [mike4192/spotMicro: Spot Micro Quadripeg Project](https://github.com/mike4192/spotMicro): 自制「波士顿动力机器狗」
+* [Chapelier Fou](https://chapelierfou.org/blog/eyepot-a-creepy-teapot.html): 一只会「行走」的水壶
 
 ### ✈️飞行器
 
@@ -474,6 +476,8 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
   - [Seeed-Studio/DSO\_Nano](https://github.com/Seeed-Studio/DSO_Nano): DIY 示波器
   - [DSLoigc](https://www.dreamsourcelab.com/): 开源、跨平台的 USB 逻辑分析仪
   - [IBM/MicroscoPy](https://github.com/IBM/MicroscoPy): 使用 LEGO、Arduino、Raspberry Pi 制作的显微镜
+  - [myst729/xtrm](https://github.com/myst729/xtrm): 自制机械键盘
+  - [This Arduino-powered spectrophotometer uses a little prism to create rainbows](https://blog.arduino.cc/2020/08/17/this-arduino-powered-spectrophotometer-uses-a-little-prism-to-create-rainbows/): 使用 Arduino 制作的光谱仪
 
 ### 🎉其他
 
