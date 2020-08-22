@@ -43,6 +43,7 @@ DIY Projects/Tools/Books for Makers
     * [<g-emoji class="g-emoji" alias="battery" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f50b.png">🔋</g-emoji>能源相关](#%E8%83%BD%E6%BA%90%E7%9B%B8%E5%85%B3)
     * [<g-emoji class="g-emoji" alias="chains" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26d3.png">⛓</g-emoji>互动装置](#%E4%BA%92%E5%8A%A8%E8%A3%85%E7%BD%AE)
     * [<g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡️</g-emoji>高压相关](#%EF%B8%8F%E9%AB%98%E5%8E%8B%E7%9B%B8%E5%85%B3)
+    * [<g-emoji class="g-emoji" alias="mortar_board" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f393.png">🎓</g-emoji>教育](#%E6%95%99%E8%82%B2)
     * [<g-emoji class="g-emoji" alias="wrench" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f527.png">🔧</g-emoji>工具 DIY](#%E5%B7%A5%E5%85%B7-diy)
     * [<g-emoji class="g-emoji" alias="tada" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f389.png">🎉</g-emoji>其他](#%E5%85%B6%E4%BB%96)
   * [欢迎参与](#%E6%AC%A2%E8%BF%8E%E5%8F%82%E4%B8%8E)
@@ -470,6 +471,10 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [特斯拉线圈制作教程，纪念特斯拉诞辰 - 爱折腾 - 开动脑筋 挽起袖子 准备折腾 . . .](https://web.archive.org/web/20090728031846/http://www.izheteng.com/diy/make_tesla_coil.html)
 - [自制电磁炮 V2.0 - FGHRSH 的博客](https://www.fghrsh.net/post/22.html)
 - [让电弧唱歌，自制简易zvs等离子扬声器 | DIY小组 | 果壳网 科技有意思](https://web.archive.org/web/20160609075128/http://www.guokr.com/post/730884/)
+
+### 🎓教育
+
+- [イルミパケット - セキュリティ博物館](https://souring001.github.io/sec-museum/): 会发光的报文。通过 LED 灯光的流动，对网络报文的传输进行可视化。
 
 ### 🔧工具 DIY
 
