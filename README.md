@@ -373,6 +373,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 * [Google Analytics on Arduino EPS8266 and 2.4" TFT](https://www.peopleperhour.com/freelance-jobs/software-development/other/google-analytics-on-arduino-eps8266-and-2-4-tft-1989164): 在液晶显示屏上显示 Google Analytics 统计信息
 * [Use a Raspberry Pi and E-Ink Display to Build a Desktop Monitoring Station for Vital Information - Hackster.io](https://www.hackster.io/news/use-a-raspberry-pi-and-e-ink-display-to-build-a-desktop-monitoring-station-for-vital-information-6e33e0841b0): 在电子墨水屏上显示日历和待办事项列表
 * [Building a TRUE 4k home cinema projector (it’s awesome)](https://www.youtube.com/watch?v=YfvTjQ9MCwY): 自制 4K 投影仪
+* [Create your own home office work status light with Raspberry Pi - Raspberry Pi](https://www.raspberrypi.org/blog/create-your-own-home-office-work-status-light-with-raspberry-pi/): 在家办公时，用一个装在墙壁上的指示灯，来告诉家人自己是否正忙
 
 ### 🎃视觉暂留（POV）类
 
@@ -389,6 +390,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 * [Arduino Neural Network Robot - Instructables](https://www.instructables.com/id/Arduino-Neural-Network-Robot/): Arduino 神经网络机器人
 * [Clean And Minimal Self-balancing Robot](https://hackaday.com/2013/05/13/clean-and-minimal-self-balancing-robot/): 小巧、容易制作的自平衡小车
 * [mike4192/spotMicro: Spot Micro Quadripeg Project](https://github.com/mike4192/spotMicro): 自制「波士顿动力机器狗」
+* [Petoi Bittle](https://www.kickstarter.com/projects/petoi/bittle): 另一个可编程的「机器狗」
 * [Chapelier Fou](https://chapelierfou.org/blog/eyepot-a-creepy-teapot.html): 一只会「行走」的水壶
 
 ### ✈️飞行器
@@ -434,6 +436,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 
 - [Arduino + 灰尘传感器实现空气质量检测](https://pwfee.com/2015/12/GP2Y1010AU0F)
 - [Chicken coop door automation with Arduino](https://blog.arduino.cc/2020/08/06/chicken-coop-door-automation-with-arduino/)
+- [kizniche/Mycodo](https://github.com/kizniche/Mycodo): 环境监控与自动调节系统，可在 Raspberry Pi 上运行
 
 ### ⌚️可穿戴设备
 
@@ -481,12 +484,14 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
   - [Seeed-Studio/DSO\_Nano](https://github.com/Seeed-Studio/DSO_Nano): DIY 示波器
   - [DSLoigc](https://www.dreamsourcelab.com/): 开源、跨平台的 USB 逻辑分析仪
   - [IBM/MicroscoPy](https://github.com/IBM/MicroscoPy): 使用 LEGO、Arduino、Raspberry Pi 制作的显微镜
+  - [rbenamotz/LEMPA](https://github.com/rbenamotz/LEMPA): 使用 Raspberry Pi 制作的单片机编程器
   - [myst729/xtrm](https://github.com/myst729/xtrm): 自制机械键盘
   - [This Arduino-powered spectrophotometer uses a little prism to create rainbows](https://blog.arduino.cc/2020/08/17/this-arduino-powered-spectrophotometer-uses-a-little-prism-to-create-rainbows/): 使用 Arduino 制作的光谱仪
 
 ### 🎉其他
 
 - [Linux on an 8-bit micro?](http://dmitry.gr/index.php?r=05.Projects&proj=07.%20Linux%20on%208bit): 在 8 位 AVR 单片机上模拟 32 位 CPU，来运行 Linux
+- [Making aerogel - YouTube](https://www.youtube.com/watch?v=Y0HfmYBlF8g): 自制气凝胶
 
 ## 欢迎参与
 
