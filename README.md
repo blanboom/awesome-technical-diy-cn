@@ -440,6 +440,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 
 - [The MOnSter 6502](http://monster6502.com): 用分立元件搭建的 6502 CPU，通过 LED 显示内部状态。可用于 CPU 原理的教学
 - [diy-VT100 - A Miniature hardware terminal](https://hackaday.io/project/13273/logs): 自制 VT100 终端
+- [MiSTer](https://github.com/MiSTer-devel/Main_MiSTer/wiki): 使用现代硬件来重新实现复古电脑和游戏主机。本项目为开源项目，包含一个 FPGA 板、一系列外设硬件、以及对应的开源软件，具有较强的可扩展性
 
 ### 🏠智能家居/家庭自动化/环境监测
 
