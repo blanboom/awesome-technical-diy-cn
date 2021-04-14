@@ -31,6 +31,7 @@ DIY Projects/Tools/Books for Makers
   * [项目与专题](#项目与专题)
     * [<g-emoji class="g-emoji" alias="musical_keyboard" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3b9.png">🎹</g-emoji>音频与音乐](#音频与音乐)
     * [<g-emoji class="g-emoji" alias="joystick" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f579.png">🕹</g-emoji>自制游戏机](#自制游戏机)
+    * [<g-emoji class="g-emoji" alias="tv" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4fa.png">📺</g-emoji>复古计算](#复古计算)
     * [<g-emoji class="g-emoji" alias="mantelpiece_clock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f570.png">🕰</g-emoji>时钟、屏幕、LED、装饰品](#时钟屏幕led装饰品)
     * [<g-emoji class="g-emoji" alias="jack_o_lantern" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f383.png">🎃</g-emoji>视觉暂留（POV）类](#视觉暂留pov类)
     * [<g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>信息可视化](#信息可视化)
@@ -38,7 +39,6 @@ DIY Projects/Tools/Books for Makers
     * [<g-emoji class="g-emoji" alias="airplane" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2708.png">✈️</g-emoji>飞行器](#️飞行器)
     * [<g-emoji class="g-emoji" alias="frog" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f438.png">🐸</g-emoji>生物与生态](#生物与生态)
     * [<g-emoji class="g-emoji" alias="runner" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c3.png">🏃</g-emoji>运动与健康](#运动与健康)
-    * [<g-emoji class="g-emoji" alias="tv" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4fa.png">📺</g-emoji>复古计算](#复古计算)
     * [<g-emoji class="g-emoji" alias="house" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3e0.png">🏠</g-emoji>智能家居/家庭自动化/环境监测](#智能家居家庭自动化环境监测)
     * [<g-emoji class="g-emoji" alias="watch" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/231a.png">⌚️</g-emoji>可穿戴设备](#️可穿戴设备)
     * [<g-emoji class="g-emoji" alias="battery" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f50b.png">🔋</g-emoji>能源相关](#能源相关)
@@ -361,6 +361,12 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 
 - [Rewind: 30 projects from 2015 that gamers will love](https://web.archive.org/web/20151224083849/http://blog.atmel.com/2015/12/17/rewind-30-projects-from-2015-that-gamers-will-love/)
 
+### 📺复古计算
+
+- [The MOnSter 6502](http://monster6502.com): 用分立元件搭建的 6502 CPU，通过 LED 显示内部状态。可用于 CPU 原理的教学
+- [diy-VT100 - A Miniature hardware terminal](https://hackaday.io/project/13273/logs): 自制 VT100 终端
+- [MiSTer](https://github.com/MiSTer-devel/Main_MiSTer/wiki): 使用现代硬件来重新实现复古电脑和游戏主机。本项目为开源项目，包含一个 FPGA 板、一系列外设硬件、以及对应的开源软件，具有较强的可扩展性
+
 ### 🕰时钟、屏幕、LED、装饰品
 
 * [LED Cube 8x8x8](https://www.instructables.com/id/Led-Cube-8x8x8/): 光立方
@@ -434,13 +440,6 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [I'm a cyborg now! (On Building My Own Artificial Pancreas)](https://liamz.co/blog/im-a-cyborg-now-on-building-my-own-artificial-pancreas/): 自制胰腺（适用于糖尿病患者，自动检测血糖，并根据血糖水平注射胰岛素）
 - [An Arduino ECG device with an integrated display | Arduino Blog](https://blog.arduino.cc/2021/04/06/an-arduino-ecg-device-with-an-integrated-display/)： 基于 Arduino 的心电图装置
 - [DIY Pull Up Bar | Heavy Duty | The Casual Engineer - YouTube](https://www.youtube.com/watch?v=wJVbLDIWk7k)：带计数功能的引体向上杆
-
-
-### 📺复古计算
-
-- [The MOnSter 6502](http://monster6502.com): 用分立元件搭建的 6502 CPU，通过 LED 显示内部状态。可用于 CPU 原理的教学
-- [diy-VT100 - A Miniature hardware terminal](https://hackaday.io/project/13273/logs): 自制 VT100 终端
-- [MiSTer](https://github.com/MiSTer-devel/Main_MiSTer/wiki): 使用现代硬件来重新实现复古电脑和游戏主机。本项目为开源项目，包含一个 FPGA 板、一系列外设硬件、以及对应的开源软件，具有较强的可扩展性
 
 ### 🏠智能家居/家庭自动化/环境监测
 
