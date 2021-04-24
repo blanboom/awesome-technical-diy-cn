@@ -189,6 +189,11 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 * [NavSpark](http://navspark.mybigcommerce.com/): 内置 GPS/北斗的 Arduino
 * [Wio Terminal](https://www.seeedstudio.com/Wio-Terminal-p-4509.html): 带有蓝牙、双频 Wi-Fi、显示屏的开发板，体积小巧，带有塑料外壳
 
+如下文章对常见的单片机进行了非常全面的评测：
+
+- [The Amazing $1 Microcontroller - Jay Carlson](https://jaycarlson.net/microcontrollers/#1505597767097-61049c0b-4061)
+
+
 ### 单板计算机（SBC）
 
 与单片机开发板相比，单板计算机一般运行 Linux 等通用操作系统，性能也更强大。
@@ -215,6 +220,10 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 其他有特色的单板计算机：
 
 - [Marvell ESPRESSObin](http://espressobin.net/): 具有强大的网络和存储功能，除了用于实现物联网项目，也可以用于 DIY NAS 或路由器
+
+如下文章对常见的嵌入式 CPU/SoC 进行了全面的评测。如果想自制单板计算机、自制基于嵌入式 Linux 的设备，或者想对单板计算机的 CPU 进行更详细的了解，都可以参考这篇文章：
+
+- [So you want to build an embedded Linux system? - Jay Carlson](https://jaycarlson.net/embedded-linux/)
 
 
 ### 电子模块
