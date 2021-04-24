@@ -393,6 +393,8 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 * [Building a TRUE 4k home cinema projector (it’s awesome)](https://www.youtube.com/watch?v=YfvTjQ9MCwY): 自制 4K 投影仪
 * [Create your own home office work status light with Raspberry Pi - Raspberry Pi](https://www.raspberrypi.org/blog/create-your-own-home-office-work-status-light-with-raspberry-pi/): 在家办公时，用一个装在墙壁上的指示灯，来告诉家人自己是否正忙
 * [PIXIE - Chainable, Dual 5*7 Micro-LED Displays](https://www.tindie.com/products/connornishijima/pixie-chainable-dual-57-micro-led-displays/): 可扩展的 LED 点阵显示屏，显示效果比较独特
+* [Zenreader: A 4.7 inches E-Ink RSS Reader Powered by ESP32 – Huan Truong's Pensieve](https://www.tnhh.net/posts/zenreader-4.7-in-rss-eink-reader.html): 基于 e-ink 电子墨水屏的 RSS 阅读器
+* [mcer12/Temper-ESP8266: Temper is a compact temperature sensor based on ESP8266 and SHT30 with large 13x7 pixel led display.](https://github.com/mcer12/Temper-ESP8266): 自制温度计，拥有精致的 LED 点阵屏幕
 
 ### 🎃视觉暂留（POV）类
 
@@ -512,6 +514,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 
 - [Linux on an 8-bit micro?](http://dmitry.gr/index.php?r=05.Projects&proj=07.%20Linux%20on%208bit): 在 8 位 AVR 单片机上模拟 32 位 CPU，来运行 Linux
 - [Making aerogel - YouTube](https://www.youtube.com/watch?v=Y0HfmYBlF8g): 自制气凝胶
+- [ruha.camera | 3D Printable Retro-style Raspberry Pi HQ Camera](https://ruha.camera/): 使用 Raspberry Pi 自制相机
 
 ## 欢迎参与
 
