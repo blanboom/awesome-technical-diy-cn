@@ -200,7 +200,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 
 常见的单板计算机：
 
-* [ Raspberry Pi](https://www.raspberrypi.org/): 最著名的单板计算机
+* [Raspberry Pi](https://www.raspberrypi.org/): 最著名的单板计算机
   * [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)&nbsp;[thibmaek/awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi)
   * [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)&nbsp;[blackout314/awesome-raspberry-pi](https://github.com/blackout314/awesome-raspberry-pi)
   * [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)&nbsp;[wwj718/awesome-raspberry-pi-zh](https://github.com/wwj718/awesome-raspberry-pi-zh)
