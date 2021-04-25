@@ -470,6 +470,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 * [Nike+ FuelBand SE BLE Protocol Reversed](https://www.evilsocket.net/2015/01/29/nike-fuelband-se-ble-protocol-reversed/)
 * [Open source DIY Nike+ Fuelband | Hackaday.io](https://hackaday.io/project/27882-open-source-diy-nike-fuelband)
 * [DoWatch DIY 手表](http://www.doyoung.net/works/DoWatch/index.html)
+* [esp32玩转彩屏 | 自制太空人主题的透明手表 - DF创客社区 - 分享创造的喜悦](https://mc.dfrobot.com.cn/thread-309258-1-1.html)
 
 ### 🔋能源相关
 
