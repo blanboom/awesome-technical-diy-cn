@@ -395,6 +395,8 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 * [PIXIE - Chainable, Dual 5*7 Micro-LED Displays](https://www.tindie.com/products/connornishijima/pixie-chainable-dual-57-micro-led-displays/): 可扩展的 LED 点阵显示屏，显示效果比较独特
 * [Zenreader: A 4.7 inches E-Ink RSS Reader Powered by ESP32 – Huan Truong's Pensieve](https://www.tnhh.net/posts/zenreader-4.7-in-rss-eink-reader.html): 基于 e-ink 电子墨水屏的 RSS 阅读器
 * [mcer12/Temper-ESP8266: Temper is a compact temperature sensor based on ESP8266 and SHT30 with large 13x7 pixel led display.](https://github.com/mcer12/Temper-ESP8266): 自制温度计，拥有精致的 LED 点阵屏幕
+* [MagicMirror²](https://magicmirror.builders/): DIY 魔镜
+  * [用树莓派打造一个超薄魔镜的简单教程 | OneV's Den](https://onevcat.com/2021/04/magicmirror/)
 
 ### 🎃视觉暂留（POV）类
 
