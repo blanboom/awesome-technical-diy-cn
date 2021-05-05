@@ -170,8 +170,8 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
   * [M5Stack](https://m5stack.com/): 小巧、模块化的 ESP32 开发板
 * [Mbed](https://os.mbed.com/platforms/): ARM Mbed 认证的开发板，能够兼容 Mbed 的一系列开发工具
 * [8051 系列](https://en.wikipedia.org/wiki/Intel_MCS-51): Intel 推出的单片机系列，国内不少单片机教程基于 8051，目前较为流行的是各个厂商推出的增强型 8051 单片机
-  * [STC](http://www.stcmcudata.com/): 国内较为著名的增强型 8051 单片机
-  * [C8051F 系列](https://www.silabs.com/mcu/8-bit): 增强型 8051 单片机
+  * [STC](http://www.stcmcudata.com/): 国内常用的一种增强型 8051 单片机，具有指令执行速度快、外设丰富等特点（部分型号无需外部晶振和复位电路，只需通电即可工作，可以大大简化电路设计）。缺点是官网和文档比较混乱
+  * [EFM8/C8051F 系列](https://www.silabs.com/mcu/8-bit): 增强型 8051 单片机，提供跨平台 IDE（[Simplify Studio](https://www.silabs.com/developers/simplicity-studio)），方便在 Linux、macOS 环境上开发和调试
 * [STM32](https://www.st.com/zh/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html): ST 公司基于 ARM Cortrx-M 的单片机
   * [STM32 Discovery 发现工具包](https://www.st.com/zh/evaluation-tools/stm32-discovery-kits.html): STM32 官方开发板
 * [MSP430](http://www.ti.com/microcontrollers/msp430-ultra-low-power-mcus/overview.html): TI 推出的 16 位单片机，特色为低功耗
