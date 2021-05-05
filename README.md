@@ -156,7 +156,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 
 常见的开发板/单片机：
 
-* [Arduino](https://www.arduino.cc/): 基于 AVR 的单片机开发板，拥有完善的生态（软件、教程、各种周边模块等），收到了世界各地 DIY 爱好者的喜爱。且有不少厂商推出 Arduino 开发板，部分在价格上有优势、部分增加了新的功能
+* [Arduino](https://www.arduino.cc/): 基于 AVR 等单片机开发板，拥有完善的生态（软件、教程、各种周边模块等），受到了世界各地 DIY 爱好者的喜爱。且有不少厂商推出 Arduino 开发板，部分在价格上有优势、部分增加了新的功能
   * [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)&nbsp;[Lembed/Awesome-arduino](https://github.com/Lembed/Awesome-arduino)
   * [Microduino](https://microduinoinc.com/): Arduino 兼容开发板，特色在于体积小巧，且官方提供网络通信、OLED、电源管理、RTC、SD 卡槽等多种模块，与 Microduino 具有相同的体积，能够直接堆叠安装
   * [DFRduino](https://www.dfrobot.com/product-838.html): DFRobot 出品的 Arduino 开发板
