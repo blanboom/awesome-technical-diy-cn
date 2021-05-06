@@ -518,6 +518,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [Linux on an 8-bit micro?](http://dmitry.gr/index.php?r=05.Projects&proj=07.%20Linux%20on%208bit): 在 8 位 AVR 单片机上模拟 32 位 CPU，来运行 Linux
 - [Making aerogel - YouTube](https://www.youtube.com/watch?v=Y0HfmYBlF8g): 自制气凝胶
 - [ruha.camera | 3D Printable Retro-style Raspberry Pi HQ Camera](https://ruha.camera/): 使用 Raspberry Pi 自制相机
+- [Vizy](https://vizycam.com/): 使用 Raspberry Pi 制作的 AI 相机
 
 ## 欢迎参与
 
