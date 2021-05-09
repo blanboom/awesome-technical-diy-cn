@@ -176,6 +176,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
   * [STM32 Discovery 发现工具包](https://www.st.com/zh/evaluation-tools/stm32-discovery-kits.html): STM32 官方开发板
 * [MSP430](http://www.ti.com/microcontrollers/msp430-ultra-low-power-mcus/overview.html): TI 推出的 16 位单片机，特色为低功耗
   * [MSP430 Launchpad](http://www.ti.com/design-resources/embedded-development/hardware-kits-boards.html): MSP430 等 TI 芯片的官方开发板
+* [Raspberry Pi Pico/RP2040](https://www.raspberrypi.org/products/raspberry-pi-pico/): Raspberry Pi Pico 是来自 Raspberry Pi 的开发板。采用了 Raspberry Pi 设计的 RP2040 单片机，支持 Programmable I/O
 * [TI SimpleLink 系列](http://www.ti.com/wireless-connectivity/simplelink-solutions/overview/overview.html): 支持无线通信的单片机系列，其中不同型号支持不同协议
   * [CC2530](http://www.ti.com/product/CC2530): 支持 ZigBee 的单片机/SoC，基于 8051
   * [CC2540](http://www.ti.com/product/CC2540): 支持蓝牙 BLE 的单片机/SoC，基于 8051
