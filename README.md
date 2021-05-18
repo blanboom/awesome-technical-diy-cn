@@ -413,6 +413,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 
 ### 📈信息可视化
 * [Twitter Mood Light - the World's Mood in a Box](https://www.instructables.com/id/Twitter-Mood-Light-The-Worlds-Mood-in-a-Box/): 世界心情指示器。实时统计 Twitter 上所有关于心情、情绪的词汇，并通过不同的色彩来显示「世界的心情」
+* [Mazda Miata gets Arduino dashboard upgrade](https://blog.arduino.cc/2021/05/08/mazda-miata-gets-arduino-dashboard-upgrade/): 使用 Arduino 制作汽车仪表盘
 
 ### 🤖️机器人/小车
 
