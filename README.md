@@ -499,6 +499,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 * [鸡蛋绘图装置 Robotic Easter Egg Painter - Arduino Project Hub](https://create.arduino.cc/projecthub/julius-kramer/robotic-easter-egg-painter-fa526e)
 * [鸡蛋绘图时钟 Egg Clock - YouTube](https://www.youtube.com/watch?v=CDWzmbdAW8g)
 * [Fighting smartphone addiction with Arduino](https://blog.arduino.cc/2021/01/11/fighting-smartphone-addiction-with-arduino/): 使用 Arduino 控制手机使用时间，避免手机上瘾
+* [ShiqiYu/StrawberryRobot](https://github.com/ShiqiYu/StrawberryRobot): 草莓分拣机器人
 
 ### ⚡️高压相关
 
