@@ -292,12 +292,16 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
   * [libemb](http://www.kaltpost.de/?page_id=708): 提供串口、控制台IO、shell、nRF24l01无线通信等功能
   * [pigweed/pigweed - Git at Google](https://pigweed.googlesource.com/pigweed/pigweed/): 来自 Google 的嵌入式库
 
+- 常见功能在嵌入式系统上的实现
+  - [umm_malloc](https://github.com/rhempel/umm_malloc): 用于嵌入式系统的内存管理程序
+  - [jsmn](https://github.com/zserge/jsmn): 适合在嵌入式系统上使用的 json 处理程序。不依赖 `malloc()`，方便移植
+
 - 图形与 GUI
 
   - [uGFX](https://ugfx.io/): 轻量级嵌入式 GUI 库
   - [U8g2](https://github.com/olikraus/u8g2): 用于嵌入式设备的图形库，支持 Arduino
 
-- 其他
+- 更多
 
   - [The Embedded Rust Book](https://rust-embedded.github.io/book/): 使用 Rust 进行嵌入式开发的教程
   * [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)&nbsp; [rust-embedded/awesome-embedded-rust](https://github.com/rust-embedded/awesome-embedded-rust)
