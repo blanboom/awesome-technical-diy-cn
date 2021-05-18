@@ -276,7 +276,8 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
   
 - 用于嵌入式设备的脚本语言运行环境
 
-  * [eLua](http://www.eluaproject.net/): 用于单片机的 Lua 环境
+  * [Lua](http://www.lua.org/): 一种脚本语言语言。与 Python、JavaScript 相比，原版的 Lua 解释器无需做过多的适配修改，就能移植到嵌入式系统
+  * [eLua](http://www.eluaproject.net/): 用于单片机的 Lua 环境。提供了一些了操作单片机外设的 API
   * [MicroPython](https://micropython.org/): 用于单片机的 Python 环境
   * [Espruino](https://www.espruino.com/): 用于单片机的 JavaScript 环境
   * [Lua RTOS](https://github.com/whitecatboard/Lua-RTOS-ESP32): 支持 Lua 的嵌入式操作系统
