@@ -522,6 +522,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
   - [rbenamotz/LEMPA](https://github.com/rbenamotz/LEMPA): 使用 Raspberry Pi 制作的单片机编程器
   - [myst729/xtrm](https://github.com/myst729/xtrm): 自制机械键盘
   - [This Arduino-powered spectrophotometer uses a little prism to create rainbows](https://blog.arduino.cc/2020/08/17/this-arduino-powered-spectrophotometer-uses-a-little-prism-to-create-rainbows/): 使用 Arduino 制作的光谱仪
+  - [烤肉vs贴片 | 电熨斗改造的微型回流焊加热台 - DF创客社区](https://mc.dfrobot.com.cn/thread-309517-1-1.html)
 
 ### 🎉其他
 
