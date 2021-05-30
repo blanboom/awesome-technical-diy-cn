@@ -481,7 +481,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 * [Open source DIY Nike+ Fuelband | Hackaday.io](https://hackaday.io/project/27882-open-source-diy-nike-fuelband)
 * [DoWatch DIY 手表](http://www.doyoung.net/works/DoWatch/index.html)
 * [esp32玩转彩屏 | 自制太空人主题的透明手表 - DF创客社区 - 分享创造的喜悦](https://mc.dfrobot.com.cn/thread-309258-1-1.html)
-* [Watchy - An Open Source Smartwatch That You Build Yourself - YouTube](https://www.youtube.com/watch?v=TbeXV9sXUnI)
+* [Watchy - An Open Source Smartwatch That You Build Yourself - YouTube](https://www.youtube.com/watch?v=TbeXV9sXUnI): 电子墨水屏时钟
 
 ### 🔋能源相关
 
