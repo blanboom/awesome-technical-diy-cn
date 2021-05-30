@@ -403,6 +403,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 * [mcer12/Temper-ESP8266: Temper is a compact temperature sensor based on ESP8266 and SHT30 with large 13x7 pixel led display.](https://github.com/mcer12/Temper-ESP8266): 自制温度计，拥有精致的 LED 点阵屏幕
 * [MagicMirror²](https://magicmirror.builders/): DIY 魔镜
   * [用树莓派打造一个超薄魔镜的简单教程 | OneV's Den](https://onevcat.com/2021/04/magicmirror/)
+* [Display Array Clock](https://savageelectronics.com/tag/displayarray/): LED 阵列时钟，通过软件可以实现不同的显示效果
 
 ### 🎃视觉暂留（POV）类
 
