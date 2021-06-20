@@ -404,6 +404,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 * [MagicMirror²](https://magicmirror.builders/): DIY 魔镜
   * [用树莓派打造一个超薄魔镜的简单教程 | OneV's Den](https://onevcat.com/2021/04/magicmirror/)
 * [Display Array Clock](https://savageelectronics.com/tag/displayarray/): LED 阵列时钟，通过软件可以实现不同的显示效果
+  * [6adgy - E-Ink Desk Clock/Calendar with 6 displays](https://www.youtube.com/watch?v=jS55CRs738Y): E-ink 电子墨水屏阵列时钟
 
 ### 🎃视觉暂留（POV）类
 
