@@ -360,6 +360,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [Bluetooth Speaker W/ Music-Reactive LED Matrix](https://www.instructables.com/id/Bluetooth-Speaker-W-Music-Reactive-LED-Matrix/): 带有 LED 点阵，能够显示音乐频谱的蓝牙扬声器
 - [自制MP3播放器Bric - WAA-ZephRay - bilibili](https://www.bilibili.com/video/BV1ta4y1t7m2/)
 - [The RoboTrombo is a MIDI-controlled robotic trombone](https://blog.arduino.cc/2020/12/29/the-robotrombo-is-a-midi-controlled-robotic-trombone/): MIDI 控制的长号机器人
+- [Turning GameCube & N64 Pads Into MIDI Controllers | Hackaday](https://hackaday.com/2021/06/19/turning-gamecube-n64-pads-into-midi-controllers/)
 
 
 ### 🕹自制游戏机
