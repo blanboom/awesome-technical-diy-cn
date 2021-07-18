@@ -372,6 +372,11 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [Building a ‘Homebrew’ Video Game Console | Internal Register](https://internalregister.github.io/2019/03/14/Homebrew-Console.html)
 - [Playing Tetris On An Oscilloscope](https://hackaday.com/2014/04/26/playing-tetris-on-an-oscilloscope): 在示波器上玩俄罗斯方块
 
+教程：
+
+- [写给玩家的FPGA入门指南 - module ZephRay;](https://www.zephray.me/post/fpga\_tutorial\_0) - 使用 FPGA 自制 Game Boy 的教程
+	- 纸质版：《[FPGA入门指南 用Verilog HDL语言设计计算机系统](https://book.douban.com/subject/35388347/)》
+
 更多资源：
 
 - [Rewind: 30 projects from 2015 that gamers will love](https://web.archive.org/web/20151224083849/http://blog.atmel.com/2015/12/17/rewind-30-projects-from-2015-that-gamers-will-love/)
