@@ -274,6 +274,10 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
   - [TinyOS](https://github.com/tinyos/tinyos-main)
   * [ChibiOS](http://www.chibios.org/dokuwiki/doku.php)
   
+- 标准库
+
+  - [picolibc/picolibc: picolibc - a C library designed for embedded 32- and 64- bit systems.](https://github.com/picolibc/picolibc)
+
 - 用于嵌入式设备的脚本语言运行环境
 
   * [Lua](http://www.lua.org/): 一种脚本语言语言。与 Python、JavaScript 相比，原版的 Lua 解释器无需做过多的适配修改，就能移植到嵌入式系统
