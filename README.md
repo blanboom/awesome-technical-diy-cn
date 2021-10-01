@@ -492,6 +492,8 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [Chicken coop door automation with Arduino](https://blog.arduino.cc/2020/08/06/chicken-coop-door-automation-with-arduino/)
 - [kizniche/Mycodo](https://github.com/kizniche/Mycodo): 环境监控与自动调节系统，可在 Raspberry Pi 上运行
 
+* [ESPHome — ESPHome](https://esphome.io/): 基于 ESP8266/ESP32 制作智能家居设备
+
 ### ⌚️可穿戴设备
 
 工具：
