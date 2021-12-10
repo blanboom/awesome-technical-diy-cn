@@ -538,6 +538,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 ### 🎓教育
 
 - [イルミパケット - セキュリティ博物館](https://souring001.github.io/sec-museum/): 会发光的报文。通过 LED 灯光的流动，对网络报文的传输进行可视化。
+- [The Megaprocessor](https://www.megaprocessor.com): 使用分立元器件制作的 CPU。CPU 的各个组件带有 LED，通过 LED 可显示数据的流向。
 
 ### 🔧工具 DIY
 
