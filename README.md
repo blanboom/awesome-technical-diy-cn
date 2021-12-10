@@ -498,7 +498,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 
 工具：
 
-* [ Arduino LilyPad](https://www.arduino.cc/en/Main/ArduinoBoardLilyPad/): 可以缝在衣物上的 Arduino 开发板
+* [Arduino LilyPad](https://www.arduino.cc/en/Main/ArduinoBoardLilyPad/): 可以缝在衣物上的 Arduino 开发板
 
 项目：
 
