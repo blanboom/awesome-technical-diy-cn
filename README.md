@@ -451,7 +451,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 基础知识：
 
 - [用Arduino扩展无人飞行器+普及无人机知识，不会算法的人必看](http://www.arduino.cn/forum.php?mod=viewthread&tid=11353&page=1&extra=#pid96716%23625076-tsina-1-7942-9345deeb3ac96e85cdddd8dcee26bb35)
-- [不思带你【从零开始】做四轴！！！(强势整理搬运版)](http://www.anobbs.com/thread-56-1-1.html)
+- [不思带你【从零开始】做四轴！！！(强势整理搬运版)](https://web.archive.org/web/20140719021427/http://www.anobbs.com/thread-56-1-1.html)
 - [从零做四轴飞行器](http://wellmakers.com/?p=7)
 
 课程：
