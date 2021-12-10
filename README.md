@@ -507,6 +507,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 * [DoWatch DIY 手表](http://www.doyoung.net/works/DoWatch/index.html)
 * [esp32玩转彩屏 | 自制太空人主题的透明手表 - DF创客社区 - 分享创造的喜悦](https://mc.dfrobot.com.cn/thread-309258-1-1.html)
 * [Watchy - An Open Source Smartwatch That You Build Yourself - YouTube](https://www.youtube.com/watch?v=TbeXV9sXUnI): 电子墨水屏手表
+* [PiGlass v2](https://www.mrdcreations.org/): 使用 Raspberry Pi Zero 制作的 AR 眼镜
 
 ### 🔋能源相关
 
