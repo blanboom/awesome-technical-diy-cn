@@ -236,7 +236,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 
 - [Altium Designer](https://www.altium.com/altium-designer/): 国内比较流行的 EDA 工具，有着丰富的教程，收费
   - [Altium CircuitMaker](https://circuitmaker.com/#why_circuitmaker): 来自 Altium，免费的 PCB 设计工具
-- [KiCad](https://www.kicad-pcb.org)
+- [KiCad](https://www.kicad.org)
 - [Eagle](https://www.autodesk.com/products/eagle/overview)
 - [立创 EDA](https://lceda.cn) / [EasyEDA](https://easyeda.com)
 - [Fritzing](https://fritzing.org/home/)
