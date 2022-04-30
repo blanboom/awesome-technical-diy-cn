@@ -341,31 +341,36 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 软件与工具：
 
 - [Mozzi](http://sensorium.github.io/Mozzi/): Arduino PWM 音效库
+- [The Hairless MIDI<->Serial Bridge](https://projectgus.github.io/hairless-midiserial/)：将串口输入转换为 MIDI 信号
 
 参考项目：
 
-- [MakeyMakey](https://makeymakey.com)
-- [Theremin 泰勒明](https://www.instructables.com/id/Make-Your-Own-Simple-Theremin/)
-- [Making Music with Makeblock](http://www.instructables.com/id/Making-Music-with-Makeblock/)
-- [Arduino-Controlled Robotic Drum](http://www.instructables.com/id/Arduino-Controlled-Robotic-Drum/)
-- [DIY 等离子扬声器](https://web.archive.org/web/20110305020006/https://www.guokr.com/post/9494/)
-- [Arduino-Powered Turntables That Turn DJing Into Child's Play](https://www.wired.com/2014/09/arduino-powered-turntables-that-turn-djing-into-childs-play/): 互动音乐教育装置
-- [Fifty speakers for an interactive sound sculpture](http://blog.arduino.cc/2015/01/26/fifty-speakers-for-an-interactive-sound-sculpture/): 五十个扬声器做成的互动声音雕塑
-- [Bee Uno - Arduino-controlled DJ midi controller](https://www.youtube.com/watch?v=qXtSZuzXReg#t=38)
-- [Singing Plant. Make Your Plant Sing With Arduino, Touche and a Gameduino](http://www.instructables.com/id/Singing-plant-Make-your-plant-sing-with-Arduino-/?ALLSTEPS): 会唱歌的植物
-- [SNF Drumming MIDI Glove using Arduino and light sensors](http://www.instructables.com/id/SNF-Drumming-MIDI-Glove-using-Arduino-and-light-se/)
-- [Electronic Instrument](http://www.instructables.com/id/Electronic-Instrument/?ALLSTEPS)
-- [Making An ARM Powered MIDI Synthesizer](http://hackaday.com/2013/12/28/making-an-arm-powered-midi-synthesizer/)
-- [Musical MIDI Shoes](http://www.instructables.com/id/Musical-MIDI-Shoes/)
-- [Making music with your muscles!](https://blog.arduino.cc/2018/06/04/making-music-with-your-muscles/): 利用肌肉电传感器（EMG）做为输入装置，产生音乐
-- [Midify Your Life! Give Any Sensor the Power of MIDI](https://blog.tindie.com/2020/04/midify-your-life/)
-- [Firefly Jar Portable Bluetooth Speakers](https://www.instructables.com/id/Firefly-Jar-Portable-Bluetooth-Speakers/): 使用萤火虫罐制作蓝牙扬声器
-- [3D Printed Mini Bluetooth Speaker](https://www.instructables.com/id/3D-Printed-Mini-Bluetooth-Speaker/): 迷你蓝牙扬声器
-- [Bluetooth Speaker W/ Music-Reactive LED Matrix](https://www.instructables.com/id/Bluetooth-Speaker-W-Music-Reactive-LED-Matrix/): 带有 LED 点阵，能够显示音乐频谱的蓝牙扬声器
-- [自制MP3播放器Bric - WAA-ZephRay - bilibili](https://www.bilibili.com/video/BV1ta4y1t7m2/)
-- [The RoboTrombo is a MIDI-controlled robotic trombone](https://blog.arduino.cc/2020/12/29/the-robotrombo-is-a-midi-controlled-robotic-trombone/): MIDI 控制的长号机器人
-- [Turning GameCube & N64 Pads Into MIDI Controllers | Hackaday](https://hackaday.com/2021/06/19/turning-gamecube-n64-pads-into-midi-controllers/)
-- [The Arduipiano is an Arduino-powered floor piano that lets you play music with your feet | Arduino Blog](https://blog.arduino.cc/2022/04/05/the-arduipiano-is-an-arduino-powered-floor-piano-that-lets-you-play-music-with-your-feet/)：脚踏钢琴
+- 不同的输入方式
+  - [MakeyMakey](https://makeymakey.com)：触摸输入。将任何物体变为琴键
+  - [Theremin 泰勒明](https://www.instructables.com/id/Make-Your-Own-Simple-Theremin/)：通过移动手掌，改变手掌与天线的距离，来改变输出声音的频率
+  - [Singing Plant. Make Your Plant Sing With Arduino, Touche and a Gameduino](http://www.instructables.com/id/Singing-plant-Make-your-plant-sing-with-Arduino-/?ALLSTEPS): 会唱歌的植物。通过触摸植物，可以使装置发出不同的声音
+  - [SNF Drumming MIDI Glove using Arduino and light sensors](http://www.instructables.com/id/SNF-Drumming-MIDI-Glove-using-Arduino-and-light-se/)：MIDI 手套，手套中装有光线传感器，可识别动作
+  - [Musical MIDI Shoes](http://www.instructables.com/id/Musical-MIDI-Shoes/)：通过脚部动作演奏音乐
+  - [Making music with your muscles!](https://blog.arduino.cc/2018/06/04/making-music-with-your-muscles/): 利用肌肉电传感器（EMG）做为输入装置，产生音乐
+  - [Midify Your Life! Give Any Sensor the Power of MIDI](https://blog.tindie.com/2020/04/midify-your-life/)：将各种传感器输入转换为 MIDI 信号
+  - [Turning GameCube & N64 Pads Into MIDI Controllers | Hackaday](https://hackaday.com/2021/06/19/turning-gamecube-n64-pads-into-midi-controllers/)：将 NGC 和 N64 游戏手柄转换为 MIDI 控制器
+  - [The Arduipiano is an Arduino-powered floor piano that lets you play music with your feet | Arduino Blog](https://blog.arduino.cc/2022/04/05/the-arduipiano-is-an-arduino-powered-floor-piano-that-lets-you-play-music-with-your-feet/)：脚踏钢琴
+- 不同的输出方式
+  - [Making Music with Makeblock](http://www.instructables.com/id/Making-Music-with-Makeblock/)：通过机器人演奏木琴
+  - [Arduino-Controlled Robotic Drum](http://www.instructables.com/id/Arduino-Controlled-Robotic-Drum/)：通过机械臂打鼓
+  - [DIY 等离子扬声器](https://web.archive.org/web/20110305020006/https://www.guokr.com/post/9494/)：电弧击穿空气发声
+  - [The RoboTrombo is a MIDI-controlled robotic trombone](https://blog.arduino.cc/2020/12/29/the-robotrombo-is-a-midi-controlled-robotic-trombone/): MIDI 控制的长号机器人
+  - [Firefly Jar Portable Bluetooth Speakers](https://www.instructables.com/id/Firefly-Jar-Portable-Bluetooth-Speakers/): 使用萤火虫罐制作蓝牙扬声器
+- 自制音频设备
+  - [3D Printed Mini Bluetooth Speaker](https://www.instructables.com/id/3D-Printed-Mini-Bluetooth-Speaker/): 迷你蓝牙扬声器
+  - [Bluetooth Speaker W/ Music-Reactive LED Matrix](https://www.instructables.com/id/Bluetooth-Speaker-W-Music-Reactive-LED-Matrix/): 带有 LED 点阵，能够显示音乐频谱的蓝牙扬声器
+  - [自制MP3播放器Bric - WAA-ZephRay - bilibili](https://www.bilibili.com/video/BV1ta4y1t7m2/)
+- 其他项目
+  - [Arduino-Powered Turntables That Turn DJing Into Child's Play](https://www.wired.com/2014/09/arduino-powered-turntables-that-turn-djing-into-childs-play/): 互动音乐教育装置
+  - [Fifty speakers for an interactive sound sculpture](http://blog.arduino.cc/2015/01/26/fifty-speakers-for-an-interactive-sound-sculpture/): 五十个扬声器做成的互动声音雕塑
+  - [Electronic Instrument](http://www.instructables.com/id/Electronic-Instrument/?ALLSTEPS)：简易自制乐器
+  - [Bee Uno - Arduino-controlled DJ midi controller](https://www.youtube.com/watch?v=qXtSZuzXReg)
+  - [Making An ARM Powered MIDI Synthesizer](http://hackaday.com/2013/12/28/making-an-arm-powered-midi-synthesizer/)
 
 
 ### 🕹自制游戏机
