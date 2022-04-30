@@ -479,6 +479,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [Arduino 自动浇花套件](https://www.dfrobot.com.cn/goods-503.html)
 - [盆栽树](https://web.archive.org/web/20131008131052/http://www.xiankankan.com/index.php/archives/25742)
 - [自制 Arduino 孵蛋器](https://create.arduino.cc/projecthub/quantenschaum/egg-incubator-ef0cf6)
+- [自制宠物喂食器](https://www.damonkohler.com/2010/11/android-automated-cat-feeder.html)
 
 ### 🏃运动与健康
 
