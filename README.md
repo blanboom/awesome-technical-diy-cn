@@ -98,6 +98,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
   * [Rebecca\_新浪博客](http://blog.sina.com.cn/arduino)
   * [我不是奔跑哥\_新浪博客](http://blog.sina.com.cn/shenjinxin2008)
   * [Nixie Clock Home – 辉光钟之家](http://www.nixieclock.org/)
+  * [Zak’s Electronics Blog ~\*](https://blog.zakkemble.net/)
 
 ### 社交网站账号
 
