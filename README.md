@@ -538,6 +538,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 * [Fighting smartphone addiction with Arduino](https://blog.arduino.cc/2021/01/11/fighting-smartphone-addiction-with-arduino/): 使用 Arduino 控制手机使用时间，避免手机上瘾
 * [ShiqiYu/StrawberryRobot](https://github.com/ShiqiYu/StrawberryRobot): 草莓分拣机器人
 * [The Toothbrush Machine](https://www.youtube.com/watch?v=Ki7lqI6XE2s): 刷牙机
+* [Review: Adafruit MONSTER M4SK](https://makezine.com/products/boards/adafruit-monster-m4sk/)：眼镜形状的开发板，眼睛是两个 LCD 屏幕，可显示动画
 
 ### ⚡️高压相关
 
