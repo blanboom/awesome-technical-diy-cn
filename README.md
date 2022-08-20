@@ -540,6 +540,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 * [ShiqiYu/StrawberryRobot](https://github.com/ShiqiYu/StrawberryRobot): 草莓分拣机器人
 * [The Toothbrush Machine](https://www.youtube.com/watch?v=Ki7lqI6XE2s): 刷牙机
 * [Review: Adafruit MONSTER M4SK](https://makezine.com/products/boards/adafruit-monster-m4sk/)：眼镜形状的开发板，眼睛是两个 LCD 屏幕，可显示动画
+* [【何同学】我做了一个自己打字的键盘](https://www.bilibili.com/video/BV1W14y1b7Mq)：会自动打字的键盘。视频中何同学还利用同样的原理，复刻了 2009 年奥运会上的活字印刷表演
 
 ### ⚡️高压相关
 
@@ -555,12 +556,16 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 
 ### 🔧工具 DIY
 
+- 仪器仪表
   - [Seeed-Studio/DSO\_Nano](https://github.com/Seeed-Studio/DSO_Nano): DIY 示波器
   - [DSLoigc](https://www.dreamsourcelab.com/): 开源、跨平台的 USB 逻辑分析仪
   - [IBM/MicroscoPy](https://github.com/IBM/MicroscoPy): 使用 LEGO、Arduino、Raspberry Pi 制作的显微镜
-  - [rbenamotz/LEMPA](https://github.com/rbenamotz/LEMPA): 使用 Raspberry Pi 制作的单片机编程器
-  - [myst729/xtrm](https://github.com/myst729/xtrm): 自制机械键盘
   - [This Arduino-powered spectrophotometer uses a little prism to create rainbows](https://blog.arduino.cc/2020/08/17/this-arduino-powered-spectrophotometer-uses-a-little-prism-to-create-rainbows/): 使用 Arduino 制作的光谱仪
+- 电脑外设
+  - [myst729/xtrm](https://github.com/myst729/xtrm): 自制机械键盘
+  - [【自制】我做了一把 模 块 化 机 械 键 盘 !【软核】](https://www.bilibili.com/video/BV19V4y1J7Hx): 稚晖君的 DIY 模块化机械键盘项目。键盘包含了屏幕，和一个用无刷电机实现的力反馈旋钮
+- 其他工具
+  - [rbenamotz/LEMPA](https://github.com/rbenamotz/LEMPA): 使用 Raspberry Pi 制作的单片机编程器
   - [烤肉vs贴片 | 电熨斗改造的微型回流焊加热台 - DF创客社区](https://mc.dfrobot.com.cn/thread-309517-1-1.html)
 
 ### 🎉其他
