@@ -443,17 +443,12 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 ### 🤖️机器人/小车
 
 * [Arduino Neural Network Robot - Instructables](https://www.instructables.com/id/Arduino-Neural-Network-Robot/): Arduino 神经网络机器人
-
 * [Clean And Minimal Self-balancing Robot](https://hackaday.com/2013/05/13/clean-and-minimal-self-balancing-robot/): 小巧、容易制作的自平衡小车
-
 * [mike4192/spotMicro: Spot Micro Quadripeg Project](https://github.com/mike4192/spotMicro): 自制「波士顿动力机器狗」
-
 * [Petoi Bittle](https://www.kickstarter.com/projects/petoi/bittle): 另一个可编程的「机器狗」
-
 * [Chapelier Fou](https://chapelierfou.org/blog/eyepot-a-creepy-teapot.html): 一只会「行走」的水壶
-
 * [ToanTech/py-apple-quadruped-robot](https://github.com/ToanTech/py-apple-quadruped-robot): 菠萝狗--一个低成本大型全套四足机器人软硬件开源项目
-
+* [Real Robot One is a high-performance robotic arm that you can build yourself](https://blog.arduino.cc/2022/08/15/real-robot-one-is-a-high-performance-robotic-arm-that-you-can-build-yourself/): 方便 DIY 的高性能机械臂，具有较大的活动范围，而且能负担重物
 
 ### ✈️飞行器
 
