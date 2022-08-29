@@ -561,6 +561,8 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - 电脑外设
   - [myst729/xtrm](https://github.com/myst729/xtrm): 自制机械键盘
   - [【自制】我做了一把 模 块 化 机 械 键 盘 !【软核】](https://www.bilibili.com/video/BV19V4y1J7Hx): 稚晖君的 DIY 模块化机械键盘项目。键盘包含了屏幕，和一个用无刷电机实现的力反馈旋钮
+- 摄影类工具
+  - [Transforming a 3D printer into a four-axis camera slider](https://blog.arduino.cc/2022/08/19/transforming-a-3d-printer-into-a-four-axis-camera-slider/): 3D 打印机改装成相机稳定器
 - 其他工具
   - [rbenamotz/LEMPA](https://github.com/rbenamotz/LEMPA): 使用 Raspberry Pi 制作的单片机编程器
   - [烤肉vs贴片 | 电熨斗改造的微型回流焊加热台 - DF创客社区](https://mc.dfrobot.com.cn/thread-309517-1-1.html)
