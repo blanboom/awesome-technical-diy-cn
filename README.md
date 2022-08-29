@@ -549,6 +549,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 
 - [イルミパケット - セキュリティ博物館](https://souring001.github.io/sec-museum/): 会发光的报文。通过 LED 灯光的流动，对网络报文的传输进行可视化。
 - [The Megaprocessor](https://www.megaprocessor.com): 使用分立元器件制作的 CPU。CPU 的各个组件带有 LED，通过 LED 可显示数据的流向。
+- [Building the worst digital camera ever | Arduino Blog](https://blog.arduino.cc/2022/08/16/building-the-worst-digital-camera-ever/): 使用光敏电阻制作的数码相机，成本极低。可用于展示数码相机的工作原理。
 
 ### 🔧工具 DIY
 
