@@ -537,6 +537,8 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 * [The Toothbrush Machine](https://www.youtube.com/watch?v=Ki7lqI6XE2s): 刷牙机
 * [Review: Adafruit MONSTER M4SK](https://makezine.com/products/boards/adafruit-monster-m4sk/)：眼镜形状的开发板，眼睛是两个 LCD 屏幕，可显示动画
 * [【何同学】我做了一个自己打字的键盘](https://www.bilibili.com/video/BV1W14y1b7Mq)：会自动打字的键盘。视频中何同学还利用同样的原理，复刻了 2009 年奥运会上的活字印刷表演
+* [我养了一朵云](https://www.bilibili.com/video/BV13U4y1k7Vx)：能够漂浮在空中，与人陪伴的「云朵」
+
 
 ### ⚡️高压相关
 
