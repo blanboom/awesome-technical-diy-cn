@@ -88,7 +88,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
   - [RobotBase的博客](http://blog.sina.com.cn/robotbase)
   - [创酷](http://www.chuangkoo.com/)
   - [极客迷](http://www.geekfans.com/)
-  - [杜洋工作室 DoYoung Studio](http://doyoung.net/)
+  - [杜洋工作室 DoYoung Studio](http://doyoung.net/)：杜洋老师擅长简洁的电子 DIY 作品，例如用一片单片机驱动光立方或 LED 点阵屏幕，不使用额外元器件
   * [做做AI，造造人 - 动力老男孩的博客](http://www.diy-robots.com/)
   * [费米门下老薛\_新浪博客](http://blog.sina.com.cn/u/1907350525)
   * [Agu's Mill 古作坊](http://aguegu.net/)
