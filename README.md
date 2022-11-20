@@ -227,6 +227,10 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 
 - [So you want to build an embedded Linux system? - Jay Carlson](https://jaycarlson.net/embedded-linux/)
 
+当然，单板计算机本身也是可以 DIY 的，例如下面两个 DIY 单板计算机项目：
+
+- [Yuzuki Chameleon](https://www.bilibili.com/video/av599666612/): 基于全志 H616 的单板电脑，PCB 设计符合嘉立创的免费打样规则
+- [Project-Quantum](https://github.com/peng-zhihui/Project-Quantum): 超迷你模块化卡片电脑计划
 
 ### 电子模块
 
