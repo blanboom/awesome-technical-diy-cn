@@ -2,10 +2,15 @@
 
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-
 DIY Projects/Tools/Books for Makers
 
 科技类 DIY 工具、作品/项目、创意整理。目前由 [Blanboom](https://blanboom.org/) 维护。
+
+---
+
+欢迎体验 [AirTerminal](https://apps.apple.com/us/app/airterminal-ble-terminal/id1296588408)，一个用于 iPhone/iPad/Apple Silicon Mac 的蓝牙终端 App。可在移动设备上，通过蓝牙的方式访问和控制自己的 DIY 作品。
+
+---
 
 ## 目录
 
