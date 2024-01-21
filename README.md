@@ -428,6 +428,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 * [Building a TRUE 4k home cinema projector (it’s awesome)](https://www.youtube.com/watch?v=YfvTjQ9MCwY): 自制 4K 投影仪
 * [Create your own home office work status light with Raspberry Pi - Raspberry Pi](https://www.raspberrypi.org/blog/create-your-own-home-office-work-status-light-with-raspberry-pi/): 在家办公时，用一个装在墙壁上的指示灯，来告诉家人自己是否正忙
 * [PIXIE - Chainable, Dual 5*7 Micro-LED Displays](https://www.tindie.com/products/connornishijima/pixie-chainable-dual-57-micro-led-displays/): 可扩展的 LED 点阵显示屏，显示效果比较独特
+	* [Arduino Display Matrix (32 x 8 DOTS) - Hackster.io](https://www.hackster.io/diyguyChris/arduino-display-matrix-32-x-8-dots-54a1f3): LED 点阵屏幕，多块屏幕可拼接或扩展
 * [Zenreader: A 4.7 inches E-Ink RSS Reader Powered by ESP32 – Huan Truong's Pensieve](https://www.tnhh.net/posts/zenreader-4.7-in-rss-eink-reader.html): 基于 e-ink 电子墨水屏的 RSS 阅读器
 * [mcer12/Temper-ESP8266: Temper is a compact temperature sensor based on ESP8266 and SHT30 with large 13x7 pixel led display.](https://github.com/mcer12/Temper-ESP8266): 自制温度计，拥有精致的 LED 点阵屏幕
 * [MagicMirror²](https://magicmirror.builders/): DIY 魔镜
@@ -436,6 +437,8 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
   * [6adgy - E-Ink Desk Clock/Calendar with 6 displays](https://www.youtube.com/watch?v=jS55CRs738Y): E-ink 电子墨水屏阵列时钟
 * [Building a Panel out of e-ink Electronic Shelf Labels | rbaron.net](https://rbaron.net/blog/2022/07/29/Daisy-chaining-multiple-electronic-shelf-labels.html)：使用一组低价的电子墨水屏价签，制作大屏幕显示面板
 * [Rŏ̽ta: Counting, With Style | Hackaday](https://hackaday.com/2022/08/19/ro%cc%86%cc%bdta-counting-with-style/): 使用辉光管和老式旋转电话拨号盘制作的一个小装置，可以作为秒表或者计数器。看起来很有复古气息。
+* [DNThomas/AstraDash: Arduino code to directly bitbang an Astra GTE Dashboard display.](https://github.com/DNThomas/AstraDash)：将汽车上的仪表板改装成智能家居控制面板
+* [使用电子墨水屏制作的待办事项列表，能够显示 Apple Reminders 中全家的共享待办事项](https://twitter.com/eson000/status/1746692171141398841)
 
 ### 🎃视觉暂留（POV）类
 
@@ -550,7 +553,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 * [Review: Adafruit MONSTER M4SK](https://makezine.com/products/boards/adafruit-monster-m4sk/)：眼镜形状的开发板，眼睛是两个 LCD 屏幕，可显示动画
 * [【何同学】我做了一个自己打字的键盘](https://www.bilibili.com/video/BV1W14y1b7Mq)：会自动打字的键盘。视频中何同学还利用同样的原理，复刻了 2009 年奥运会上的活字印刷表演
 * [我养了一朵云](https://www.bilibili.com/video/BV13U4y1k7Vx)：能够漂浮在空中，与人陪伴的「云朵」
-
+* [Build a Mesmerizing Sand Table : a DIY Arduino Masterpiece! : 6 Steps (with Pictures) - Instructables](https://www.instructables.com/Build-a-Mesmerizing-Sand-Table-a-DIY-Arduino-Maste/) 使用 Arduino 制作的沙盘，能够控制小球在沙子上绘制不同的图案
 
 ### ⚡️高压相关
 
