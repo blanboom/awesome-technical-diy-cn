@@ -366,12 +366,14 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
   - [Midify Your Life! Give Any Sensor the Power of MIDI](https://blog.tindie.com/2020/04/midify-your-life/)：将各种传感器输入转换为 MIDI 信号
   - [Turning GameCube & N64 Pads Into MIDI Controllers | Hackaday](https://hackaday.com/2021/06/19/turning-gamecube-n64-pads-into-midi-controllers/)：将 NGC 和 N64 游戏手柄转换为 MIDI 控制器
   - [The Arduipiano is an Arduino-powered floor piano that lets you play music with your feet | Arduino Blog](https://blog.arduino.cc/2022/04/05/the-arduipiano-is-an-arduino-powered-floor-piano-that-lets-you-play-music-with-your-feet/)：脚踏钢琴
+  - [GeroTakke.de - ottopot](https://gerotakke.de/ottopot/) 使用 8 个旋钮制作的 MIDI 控制器。旋钮具有类似模拟电位器的高分辨率
 - 不同的输出方式
   - [Making Music with Makeblock](http://www.instructables.com/id/Making-Music-with-Makeblock/)：通过机器人演奏木琴
   - [Arduino-Controlled Robotic Drum](http://www.instructables.com/id/Arduino-Controlled-Robotic-Drum/)：通过机械臂打鼓
   - [DIY 等离子扬声器](https://web.archive.org/web/20110305020006/https://www.guokr.com/post/9494/)：电弧击穿空气发声
   - [The RoboTrombo is a MIDI-controlled robotic trombone](https://blog.arduino.cc/2020/12/29/the-robotrombo-is-a-midi-controlled-robotic-trombone/): MIDI 控制的长号机器人
   - [Firefly Jar Portable Bluetooth Speakers](https://www.instructables.com/id/Firefly-Jar-Portable-Bluetooth-Speakers/): 使用萤火虫罐制作蓝牙扬声器
+  - [Robot Pianista](https://www.instructables.com/Robot-Pianista-C%C3%B3mo-Crear-Un-Robot-Que-Toca-El-Pia/)：使用机械装置自动弹钢琴
 - 自制音频设备
   - [3D Printed Mini Bluetooth Speaker](https://www.instructables.com/id/3D-Printed-Mini-Bluetooth-Speaker/): 迷你蓝牙扬声器
   - [Bluetooth Speaker W/ Music-Reactive LED Matrix](https://www.instructables.com/id/Bluetooth-Speaker-W-Music-Reactive-LED-Matrix/): 带有 LED 点阵，能够显示音乐频谱的蓝牙扬声器
