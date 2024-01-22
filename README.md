@@ -22,6 +22,7 @@ DIY Projects/Tools/Books for Makers
     * [社交网站账号](#社交网站账号)
     * [活动与展会](#活动与展会)
     * [厂商、网店](#厂商网店)
+    * [文章推荐](#文章推荐)
   * [工具、材料](#工具材料)
     * [常用工具](#常用工具)
     * [开发板、单片机](#开发板单片机)
@@ -145,6 +146,10 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 * [Arduino Official Store](https://store.arduino.cc/usa/)
 * [Digi-Key 中国](https://www.digikey.cn/)
 * [e络盟 element14](https://cn.element14.com/)
+
+### 文章推荐
+
+* [万字长文，一个软件工程师的 2023 电子 DIY 总结 | Architecting Life](https://xujiwei.com/blog/2024/01/a-diy-summary-in-2023/)
 
 ## 工具、材料
 
