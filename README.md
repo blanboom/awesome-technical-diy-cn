@@ -8,7 +8,13 @@ DIY Projects/Tools/Books for Makers
 
 ---
 
-欢迎体验 [AirTerminal](https://apps.apple.com/us/app/airterminal-ble-terminal/id1296588408)，一个用于 iPhone/iPad/Apple Silicon Mac 的蓝牙终端 App。可在移动设备上，通过蓝牙的方式访问和控制自己的 DIY 作品。
+欢迎体验 AirTerminal，一个用于 iPhone/iPad/Apple Silicon Mac 的蓝牙终端 App。可在移动设备上，通过蓝牙的方式访问和控制自己的 DIY 作品：
+
+* [AirTerminal - BLE Terminal on the App Store](https://apps.apple.com/us/app/airterminal-ble-terminal/id1296588408)
+
+本仓库主要整理硬件项目。对于软件类项目，请关注如下仓库：
+
+* [blanboom/tiny-projects: 计算机科学领域的入门 DIY 项目，例如自制操作系统、CPU、编译器等](https://github.com/blanboom/tiny-projects)
 
 ---
 
